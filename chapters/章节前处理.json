@@ -1,0 +1,23 @@
+{
+  "id": "schedule-preprocessing-1788599366853-3",
+  "name": "章节前处理",
+  "fragments": [
+    {
+      "id": "frag-1788599366853-4",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "54957af4-579b-45ad-b480-d3dc954318b1",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          }
+        }
+      ]
+    }
+  ],
+  "kind": "schedule-preprocessing",
+  "disabled": true
+}

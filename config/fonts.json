@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "fonts": [
+    {
+      "id": "851lakeusnightwriting-regular",
+      "family": "851Lakeus Night Writing",
+      "file": "assets/fonts/851LakeusNightWriting-Regular.ttf",
+      "origin": "user-uploaded"
+    }
+  ]
+}

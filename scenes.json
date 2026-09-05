@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "scenes": [
+    {
+      "id": "e44ecadc-1aff-4197-b877-8414e32393a0",
+      "name": "旧货摊",
+      "layers": [
+        {
+          "id": "f8d69ee8-9954-47bf-aa78-449d49dbbd1e",
+          "name": "旧货摊",
+          "assetPath": "backgrounds/旧货摊.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "5d6cadf1-5c21-460d-baaa-296aab639820",
+      "name": "开始游戏界面",
+      "layers": [
+        {
+          "id": "dc1f393f-2e2d-4c2d-89d0-b407f6e915ac",
+          "name": "开始游戏界面",
+          "assetPath": "backgrounds/开始游戏界面.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "86c04cfc-412e-4fcf-91fc-de6de325bf64",
+      "name": "卧室",
+      "layers": [
+        {
+          "id": "f1ed8abd-81dd-4ae4-a7d1-ca2ad13273af",
+          "name": "卧室",
+          "assetPath": "backgrounds/卧室.png",
+          "distance": 1
+        }
+      ]
+    }
+  ]
+}

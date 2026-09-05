@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "canvas": {
+    "width": 1920,
+    "height": 1080
+  },
+  "elements": [
+    {
+      "id": "toolbar",
+      "type": "toolbar",
+      "rect": {
+        "x": 210,
+        "y": 1027,
+        "w": 1500,
+        "h": 48
+      },
+      "anchor": "b",
+      "name": "对话工具栏",
+      "style": {
+        "fontSize": 18,
+        "color": "#e8edf2",
+        "fill": "#c6c695",
+        "borderColor": "rgba(127, 212, 200, 0.28)",
+        "borderWidth": 0,
+        "radius": 27,
+        "letterSpacing": 1,
+        "opacity": 100
+      },
+      "animation": {
+        "enter": {
+          "preset": "rise",
+          "durationMs": 420,
+          "delayMs": 30
+        },
+        "exit": {
+          "preset": "sink",
+          "durationMs": 220,
+          "delayMs": 0
+        }
+      },
+      "props": {
+        "items": [
+          "skip",
+          "auto",
+          "save",
+          "load",
+          "quickSave",
+          "quickLoad",
+          "history",
+          "settings",
+          "hide"
+        ],
+        "direction": "horizontal",
+        "align": "center",
+        "gap": 4,
+        "showLabels": true,
+        "accentColor": "#7fd4c8",
+        "showFill": false
+      }
+    }
+  ],
+  "name": "对话工具栏"
+}

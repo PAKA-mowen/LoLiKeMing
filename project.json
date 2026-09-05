@@ -1,0 +1,78 @@
+{
+  "id": "ab47ac5b-a492-46c0-a7cf-a1eb1e7815fa",
+  "name": "欸？好兄弟科明的真面目竟然是傲娇萝莉！",
+  "version": "1.0.0",
+  "engineVersion": "1.0.0",
+  "author": "墨问羊驼",
+  "description": "我的好兄弟科明误打误撞喝下了我偶然获得的“真面目药水”后不能做出违背本心的事情，结果暴露自己是傲娇萝莉的事实",
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "graphicsRendering": {
+    "mode": "auto",
+    "fixedScale": 1,
+    "autoMaxScale": 2,
+    "antialias": true,
+    "imageSampling": "auto",
+    "frameRate": 60,
+    "effectQuality": "high"
+  },
+  "backgroundColor": "#000000",
+  "window": {
+    "lockAspectRatio": false,
+    "allowMaximize": true,
+    "allowFullscreen": true,
+    "launchMode": "windowed"
+  },
+  "cursor": {
+    "mode": "system",
+    "image": "",
+    "imagePixelRatio": 1,
+    "imageSize": {
+      "width": 24,
+      "height": 24
+    },
+    "hotspot": {
+      "x": 0,
+      "y": 0
+    },
+    "fallback": "default",
+    "css": "",
+    "cssImagePixelRatio": 1,
+    "cssImageSize": {
+      "width": 24,
+      "height": 24
+    }
+  },
+  "chapterOrder": [
+    "开始",
+    "第1章",
+    "章节前处理"
+  ],
+  "chapterFolders": [],
+  "chapterTreeOrder": [
+    {
+      "type": "chapter",
+      "id": "b478983a-4a6a-431d-941a-bdfd996129e3"
+    },
+    {
+      "type": "chapter",
+      "id": "ch-1788595131163-1"
+    }
+  ],
+  "scheduleMode": "basic",
+  "schedule": {
+    "id": "root",
+    "entryChapterCount": 0,
+    "strategy": {
+      "type": "extension",
+      "target": ""
+    }
+  },
+  "extensionStorageVersion": 1,
+  "extensions": {},
+  "extensionSettings": {},
+  "dataBindings": {},
+  "dynamicVisualAssets": []
+}

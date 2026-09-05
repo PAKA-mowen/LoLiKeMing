@@ -1,0 +1,55 @@
+{
+  "version": 2,
+  "globalSettings": {},
+  "attributeTemplate": [
+    {
+      "id": "80f25be0-ae16-4861-98f1-98b9a3914157",
+      "name": "好感度",
+      "type": "number",
+      "defaultValue": 10,
+      "createdAt": 1788608920384
+    }
+  ],
+  "characters": [
+    {
+      "id": "21a0adc8-9f7f-4481-b2fa-4613ad370c9f",
+      "name": "科明",
+      "expressions": [
+        {
+          "name": "大脸照",
+          "assetPath": "characters/1788596622472.png"
+        },
+        {
+          "name": "站立",
+          "assetPath": "characters/1788596476163.png"
+        }
+      ],
+      "dialoguePortraitEnabled": false
+    },
+    {
+      "id": "63ebe5ba-4f27-4b37-8f92-e98e1bba9c9f",
+      "name": "旧货摊老板",
+      "expressions": [
+        {
+          "name": "旧货摊老板",
+          "assetPath": "characters/1788600269028.png"
+        }
+      ]
+    },
+    {
+      "id": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+      "name": "我",
+      "expressions": []
+    },
+    {
+      "id": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+      "name": "小小科明",
+      "expressions": [
+        {
+          "name": "1788596496707",
+          "assetPath": "characters/1788596496707.png"
+        }
+      ]
+    }
+  ]
+}

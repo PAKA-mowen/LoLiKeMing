@@ -1,0 +1,2721 @@
+{
+  "id": "ch-1788595131163-1",
+  "name": "第1章",
+  "fragments": [
+    {
+      "id": "frag-1788595131163-2",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "857abfc6-2be8-4a74-baad-908f9eca4775",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "open",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
+        },
+        {
+          "id": "86b9b662-7398-4716-9f86-c4140c7c3836",
+          "type": "wait",
+          "props": {
+            "disabled": false,
+            "duration": 500,
+            "waitForInput": false
+          }
+        },
+        {
+          "id": "fbee8502-3576-47d0-8199-f43b7d7e8189",
+          "type": "particle",
+          "props": {
+            "disabled": false,
+            "mode": "hide",
+            "effectId": "",
+            "preset": "LIGHT_SNOW",
+            "textureUri": "",
+            "optionsJson": "",
+            "fadeInDuration": "500",
+            "fadeOutDuration": "3000"
+          }
+        },
+        {
+          "id": "10d0514c-9379-45d0-8437-b505985f4f54",
+          "type": "floatingText",
+          "props": {
+            "disabled": false,
+            "floatingTextId": "",
+            "blocking": "true",
+            "recordHistory": "false",
+            "position": "(28%,33.9%)",
+            "anchor": "top-left",
+            "size": "",
+            "fontFamily": "'851Lakeus Night Writing', 'PingFang SC', sans-serif",
+            "fontSize": "80",
+            "color": "#ffffff",
+            "fontWeight": "normal",
+            "fontStyle": "normal",
+            "textAlign": "left",
+            "lineHeight": "",
+            "letterSpacing": "",
+            "textShadow": "2px 2px 4px rgba(0,0,0,0.5)",
+            "duration": "2500",
+            "infinite": "false",
+            "animIn": "fade",
+            "inDuration": "300",
+            "animOut": "fade",
+            "outDuration": "300",
+            "slideFrom": "top",
+            "slideDistance": "40",
+            "scaleFrom": "0.8",
+            "scaleTo": "0.8",
+            "blurRadius": "8"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "故事...要从一瓶药水讲起",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "87cd32b6-24c5-4abb-a319-af7bf2d95992",
+          "type": "floatingText",
+          "props": {
+            "disabled": false,
+            "floatingTextId": "",
+            "blocking": "true",
+            "recordHistory": "false",
+            "position": "(28%,33.9%)",
+            "anchor": "top-left",
+            "size": "",
+            "fontFamily": "'851Lakeus Night Writing', 'PingFang SC', sans-serif",
+            "fontSize": "80",
+            "color": "#ffffff",
+            "fontWeight": "normal",
+            "fontStyle": "normal",
+            "textAlign": "left",
+            "lineHeight": "",
+            "letterSpacing": "",
+            "textShadow": "2px 2px 4px rgba(0,0,0,0.5)",
+            "duration": "1200",
+            "infinite": "false",
+            "animIn": "fade",
+            "inDuration": "300",
+            "animOut": "fade",
+            "outDuration": "300",
+            "slideFrom": "top",
+            "slideDistance": "40",
+            "scaleFrom": "0.8",
+            "scaleTo": "0.8",
+            "blurRadius": "8"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "谁也没有想到",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1fff92a9-019d-446e-90c9-a43a5256560c",
+          "type": "stopSound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "6cda580d-91c9-4506-a101-984e5ee09714",
+          "type": "floatingText",
+          "props": {
+            "disabled": false,
+            "floatingTextId": "",
+            "blocking": "true",
+            "recordHistory": "false",
+            "position": "(28%,33.9%)",
+            "anchor": "top-left",
+            "size": "",
+            "fontFamily": "'851Lakeus Night Writing', 'PingFang SC', sans-serif",
+            "fontSize": "80",
+            "color": "#ffffff",
+            "fontWeight": "normal",
+            "fontStyle": "normal",
+            "textAlign": "left",
+            "lineHeight": "",
+            "letterSpacing": "",
+            "textShadow": "2px 2px 4px rgba(0,0,0,0.5)",
+            "duration": "1500",
+            "infinite": "false",
+            "animIn": "fade",
+            "inDuration": "300",
+            "animOut": "fade",
+            "outDuration": "300",
+            "slideFrom": "top",
+            "slideDistance": "40",
+            "scaleFrom": "0.8",
+            "scaleTo": "0.8",
+            "blurRadius": "8"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "小小一瓶“真面目药水”",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "47bee3f5-b8d5-415f-82d5-75ef8ee90099",
+          "type": "floatingText",
+          "props": {
+            "disabled": false,
+            "floatingTextId": "",
+            "blocking": "true",
+            "recordHistory": "false",
+            "position": "(28%,33.9%)",
+            "anchor": "top-left",
+            "size": "",
+            "fontFamily": "'851Lakeus Night Writing', 'PingFang SC', sans-serif",
+            "fontSize": "80",
+            "color": "#ffffff",
+            "fontWeight": "normal",
+            "fontStyle": "normal",
+            "textAlign": "left",
+            "lineHeight": "",
+            "letterSpacing": "",
+            "textShadow": "2px 2px 4px rgba(0,0,0,0.5)",
+            "duration": "2500",
+            "infinite": "false",
+            "animIn": "fade",
+            "inDuration": "300",
+            "animOut": "fade",
+            "outDuration": "300",
+            "slideFrom": "top",
+            "slideDistance": "40",
+            "scaleFrom": "0.8",
+            "scaleTo": "0.8",
+            "blurRadius": "8"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "竟会...",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "71d192e4-c316-4498-ab96-2ed7db9f7e30",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "e44ecadc-1aff-4197-b877-8414e32393a0",
+            "sceneName": "旧货摊",
+            "uri": "",
+            "autoAddToGallery": "true",
+            "galleryMethodTarget": "avg.internal.default-shell/add-to-gallery",
+            "transitionMode": "cover",
+            "transitionDuration": "2300",
+            "transitionDirection": "",
+            "transitionStrips": "12",
+            "transitionRuleUri": "",
+            "transitionCenterX": "50",
+            "transitionCenterY": "50",
+            "transitionSoftness": "",
+            "transitionZoomScale": "1.14",
+            "transitionBlurStrength": "16",
+            "transitionMosaicSize": "52",
+            "transitionGlitchStrength": "100",
+            "transitionGlitchColorShift": "4.5",
+            "transitionGlitchScanlines": "17",
+            "transitionPagePerspective": "50",
+            "transitionPageShadow": "38",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "mouseParallaxEnabled": "false",
+            "mouseParallaxAmplitude": "4",
+            "mouseParallaxEdgeEase": "0",
+            "mouseParallaxReturnOnLeave": "true",
+            "mouseParallaxScaleMode": "auto",
+            "mouseParallaxScale": "1.08",
+            "displayType": "cover",
+            "position": "(center,center)",
+            "anchor": "center",
+            "size": "(80%,80%)"
+          }
+        },
+        {
+          "id": "3efac05e-5e01-4f11-8823-6c81baa1d97b",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "63ebe5ba-4f27-4b37-8f92-e98e1bba9c9f",
+            "characterName": "旧货摊老板",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center-right",
+            "isFirst": true,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "嘻嘻，想买点什么吗？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "96fa4927-c3ea-422d-9710-100969f1d718",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "63ebe5ba-4f27-4b37-8f92-e98e1bba9c9f",
+            "characterName": "旧货摊老板",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "想也不行，因为我累了",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "30d45d59-88f2-4183-8a3a-4931bea55edc",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": true,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "（ ？）",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d7d70627-4164-41e4-a3e9-323c7568c8f9",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "（这人是不是有猫饼）",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a8a4bbdf-ab5d-4c20-b6f8-ad8a8ae41a5e",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "哦。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "bee73e09-95a7-4718-a294-050db202b9f9",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "63ebe5ba-4f27-4b37-8f92-e98e1bba9c9f",
+            "characterName": "旧货摊老板",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center-right",
+            "isFirst": true,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": false,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "哈哈哈哈开玩笑啦",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1cb18e19-dedd-4824-8e51-01a0e899882d",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "63ebe5ba-4f27-4b37-8f92-e98e1bba9c9f",
+            "characterName": "旧货摊老板",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center-right",
+            "isFirst": false,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": false,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "桌子上的货物随便挑",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "25e692b1-8cb1-4d91-85cc-332808931145",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你看向杂乱不堪的摊位",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "092c83b8-0464-4b70-9146-a0bda980e24b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "一堆稀奇古怪从没见过的玩意",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "624cfbec-fb8d-4e60-bbaf-0b3307026b51",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "63ebe5ba-4f27-4b37-8f92-e98e1bba9c9f",
+            "characterName": "旧货摊老板",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center-right",
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "想要点什么？（笑）",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e7fdb033-b23c-486b-b237-6de943e7a464",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "ffdfcb8d-5aec-4627-8232-6c1d7b9d0bce",
+            "title": "",
+            "choices": "[{\"mode\":\"jump\",\"text\":\"这里的东西我全要了\",\"fragmentId\":\"frag-1788608979947-1\"},{\"mode\":\"jump\",\"text\":\"这个是什么（你指向角落里的一瓶药水）\",\"fragmentId\":\"frag-1788609037213-2\"},{\"mode\":\"jump\",\"text\":\"没钱，再见\",\"fragmentId\":\"frag-1788609668480-3\"}]"
+          }
+        },
+        {
+          "id": "f25661fa-3cb4-4320-b2c5-d0a09901224f",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "63ebe5ba-4f27-4b37-8f92-e98e1bba9c9f",
+            "characterName": "旧货摊老板",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center-right",
+            "isFirst": true,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": false,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "唉，难得相识一场",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "dc9df141-3985-4049-8af0-725f7c16f39e",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "63ebe5ba-4f27-4b37-8f92-e98e1bba9c9f",
+            "characterName": "旧货摊老板",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": false,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "俗话说相逢即使缘",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6c0f4658-03fa-486b-a373-cefcbadcf571",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "63ebe5ba-4f27-4b37-8f92-e98e1bba9c9f",
+            "characterName": "旧货摊老板",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": false,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "这药水就送你了",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2fa14c08-e3e8-4a7f-b36b-52fbf0923b53",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "63ebe5ba-4f27-4b37-8f92-e98e1bba9c9f",
+            "characterName": "旧货摊老板",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": false,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "具体效果嘛....你一试便知",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b3c6b99f-43e2-40ff-8ca2-ace037d2b62f",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "整的还怪神秘的",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "dfe3ad69-dffd-43d2-b9b7-69886bf656cf",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": false,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "谢啦",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fb1a6aa8-a1a4-44f4-9b75-9327ddd441ee",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你拿走了桌上的药水",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d0282524-873f-4664-a848-8479f61c35a1",
+          "type": "destroyScene",
+          "props": {
+            "disabled": false,
+            "sceneId": "all",
+            "sceneName": "",
+            "animated": "true",
+            "waitForComplete": "false"
+          }
+        },
+        {
+          "id": "7226e5ef-eda2-4905-834f-5ebab9e704d8",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "86c04cfc-412e-4fcf-91fc-de6de325bf64",
+            "sceneName": "卧室",
+            "uri": "",
+            "autoAddToGallery": "true",
+            "galleryMethodTarget": "avg.internal.default-shell/add-to-gallery",
+            "transitionMode": "cover",
+            "transitionDuration": "500",
+            "transitionDirection": "",
+            "transitionStrips": "12",
+            "transitionRuleUri": "",
+            "transitionCenterX": "50",
+            "transitionCenterY": "50",
+            "transitionSoftness": "",
+            "transitionZoomScale": "1.14",
+            "transitionBlurStrength": "16",
+            "transitionMosaicSize": "52",
+            "transitionGlitchStrength": "100",
+            "transitionGlitchColorShift": "4.5",
+            "transitionGlitchScanlines": "17",
+            "transitionPagePerspective": "50",
+            "transitionPageShadow": "38",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "mouseParallaxEnabled": "false",
+            "mouseParallaxAmplitude": "4",
+            "mouseParallaxEdgeEase": "0",
+            "mouseParallaxReturnOnLeave": "true",
+            "mouseParallaxScaleMode": "auto",
+            "mouseParallaxScale": "1.08",
+            "displayType": "cover",
+            "position": "(55%,61.7%)",
+            "anchor": "center",
+            "size": "(80%,80%)"
+          }
+        },
+        {
+          "id": "65e19d09-09c9-40dd-9f61-aef8ecd223a9",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你回到了家里，一头栽倒在床上",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7877abbb-5611-4c74-ba64-ce2993555383",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "呜呼——好累啊",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "338d0380-41e7-4b27-9d0a-a2baab42d3ea",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "跑了一整天了",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "41bd3c34-694d-4467-a4d8-6db2c64f7623",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "不一会，你感到昏昏欲睡",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0f058fd4-5e0e-4650-89ce-2e4a0b472655",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "不知道过了多久",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f28f3580-797f-4afa-a408-74c0909200f4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "迷迷糊糊中，你好像听到有敲门的声音",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "716c96b3-818b-4add-b7a0-31b758ba1d32",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "（谁啊？打扰我如此宝贵的休息时间。。。）",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9549245a-dc2e-4f87-9224-7dfa0bf0342d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": false,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你翻了个身，准备起床去开门，结果...",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2bebf8e9-6d68-4984-8e4b-5aaf5eef210f",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "21a0adc8-9f7f-4481-b2fa-4613ad370c9f",
+            "characterName": "科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "near",
+            "position": "left",
+            "isFirst": true,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": false,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "(｡･∀･)ﾉﾞ嗨！！！！",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "94fd3451-9570-424b-be75-feffba6f770d",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "21a0adc8-9f7f-4481-b2fa-4613ad370c9f",
+            "characterName": "科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "near",
+            "position": "left",
+            "isFirst": false,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "有没有想我呀~",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1986bfd1-0c5a-4e16-9c59-537f0a56702f",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "啊啊啊啊啊啊——",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "964a0830-be55-44cc-9187-e7d5331d5295",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": false,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "滚啊，吓我一跳！",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "46c68d88-e3ca-48bb-a36f-54437cd385ea",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": false,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "还有，你怎么不敲门就进来了？！",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d9b29406-3365-40b7-8b90-30b352e83815",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "21a0adc8-9f7f-4481-b2fa-4613ad370c9f",
+            "characterName": "科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "far",
+            "position": "left",
+            "isFirst": true,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "不是你自己把家门密码告诉我的吗",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9f7a6115-a3dc-4380-ae41-4ea704294f21",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "21a0adc8-9f7f-4481-b2fa-4613ad370c9f",
+            "characterName": "科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "又怪上我了",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7d7241d6-baa0-4892-b48d-9d35fb395441",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "（气，惊魂未定版）",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "69943796-103a-43d2-b1ea-535eb6407dd8",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "科明看向你桌子上新买的药水",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "aac2b4e2-00c7-40e2-bdc2-14304c5d7b64",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "21a0adc8-9f7f-4481-b2fa-4613ad370c9f",
+            "characterName": "科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "far",
+            "position": "left",
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "这是什么雷霆？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "92817d17-feb6-4239-8979-102338230765",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "啊哈哈，那是最新款的饮料",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "144d03d3-abe3-4107-a4d1-ea537285dafe",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": false,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "老好喝了，包装都很奇特",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fdd1aab7-c4cc-43d6-a276-e01174cf9492",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "21a0adc8-9f7f-4481-b2fa-4613ad370c9f",
+            "characterName": "科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "far",
+            "position": "left",
+            "isFirst": true,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "那我可得尝尝",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4514146e-5cfa-4bea-8dcf-0c38aa84ae1d",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "21a0adc8-9f7f-4481-b2fa-4613ad370c9f",
+            "characterName": "科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "品鉴！",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4aef12ed-c20a-4d96-9fcd-a003e7e30a4e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "科明拿起桌子上的药水，一饮而尽",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ed841968-a7ed-4cd1-b1ec-3db08c66c492",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "21a0adc8-9f7f-4481-b2fa-4613ad370c9f",
+            "characterName": "科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "far",
+            "position": "left",
+            "isFirst": true,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": false,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "还真挺好喝的...",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "706bca0b-21b4-479e-b61d-039ebe35a024",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "21a0adc8-9f7f-4481-b2fa-4613ad370c9f",
+            "characterName": "科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": false,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "不过怎么感觉有点晕呼呼的呢",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d249cd85-cc7b-4fee-a39d-97a7523b0095",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "21a0adc8-9f7f-4481-b2fa-4613ad370c9f",
+            "characterName": "科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": false,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "不是，这...这水...",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5a8104bf-e38b-402c-9180-b85c2d523945",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "21a0adc8-9f7f-4481-b2fa-4613ad370c9f",
+            "characterName": "科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": false,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "aaaaaaaaaaa",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a37f73ac-43bd-4e44-93d5-819694275ed0",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "21a0adc8-9f7f-4481-b2fa-4613ad370c9f",
+            "characterName": "科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": false,
+            "keepDialogue": false,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "aaaaaaaaaaaaaaa",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "873ba8c2-5ccf-414c-8b3d-0d3a5230b038",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "科明突然跪倒在地上，一会儿捂着肚子一会儿抱头",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f1e8edb1-e2c4-472a-81ff-f5abd79f96be",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "声音却逐渐尖起来",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4d67497b-1e85-4dd8-910d-31990aed587d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你看着面前的科明",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3cab3e55-e0d9-4db8-b5b7-47a1e3e6ce58",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "瞬间变成了一个金发萝莉！",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9d8773b2-7985-4b44-84ec-94cb60d43408",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": true,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "啊啊啊啊，我怎么变成这个样子了",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e413e06e-62a1-41e3-bc46-eafbf764b7da",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "这到底是什么",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fc63585a-84cb-4b41-86cc-432046f84d38",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "科明拿起喝完的药水瓶",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0a9537d0-54e6-483c-9272-996a913e738d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "翻过平身，底部刻着几行字：",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e611eff7-19a1-4baa-b349-bd4acd34df65",
+          "type": "storyParagraph",
+          "props": {
+            "disabled": false,
+            "speed": 0,
+            "isFirst": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "[真面目药水]\n饮下后24小时内无法违背本心\n若强行伪装则会全身剧痛\n若在变身后24小时内找不到‘真心水晶’\n将永远保持此形态\n且人格逐渐幼化。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c705f910-4dc9-421f-8dcb-c0fbcb9aaec5",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "什么？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "490a1852-0bc1-476e-9524-43608ddb17c8",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "真面目？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8a498d56-2a7a-4ce2-a621-d4a7eaf937dc",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我的真面目是萝莉？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "49a20c62-8c0f-4e02-b6a0-71663831a606",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "开什么国际玩笑？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b6a64cdc-9653-4a47-8748-9a0285f373aa",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我...我才不是什么...萝...",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2066b9a4-da62-4d41-9340-30b362df912a",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "啊啊啊啊啊~",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "496f0ad0-a987-42b0-b9bd-7fc2e3316352",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "话还没说完，科明就又瘫倒在地上",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "84982370-4c0f-47b6-bdfd-2f88a38cdf71",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "说了假话会全身剧痛",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1edc62a2-e591-42c3-b151-c03abaf26472",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "也就是说....",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "78eae234-2015-4982-95ec-6689dc0c45e4",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你平时的形象原来是装的啊",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0b47dd71-5df4-4766-8110-bdc5efa5a73f",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "原来是个...",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "19d9636f-1f60-490a-82a4-194fb44271e7",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "傲~娇~萝~莉~~~~~~",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7be9a137-4de7-4a81-8496-bbcb5124b7f0",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "frag-1788608979947-1",
+      "name": "这里的东西我全要了",
+      "blocks": [
+        {
+          "id": "5d158caa-7329-47bc-89c4-f6471b721917",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "63ebe5ba-4f27-4b37-8f92-e98e1bba9c9f.好感度",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "100",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        }
+      ]
+    },
+    {
+      "id": "frag-1788609037213-2",
+      "name": "这个是什么（你指向角落里的一瓶药水）",
+      "blocks": [
+        {
+          "id": "535e2c83-67c1-4627-ad4e-2f0a8cc07112",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "63ebe5ba-4f27-4b37-8f92-e98e1bba9c9f.好感度",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "20",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        }
+      ]
+    },
+    {
+      "id": "frag-1788609668480-3",
+      "name": "没钱，再见",
+      "blocks": [
+        {
+          "id": "25e9424d-541a-465f-82a0-bd94d4733f7e",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "63ebe5ba-4f27-4b37-8f92-e98e1bba9c9f.好感度",
+            "op": "=",
+            "aKind": "lit",
+            "aLit": "0",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        }
+      ]
+    },
+    {
+      "id": "frag-1788610085249-4",
+      "name": "老板生气",
+      "blocks": [
+        {
+          "id": "09b6e993-8c6d-4666-ba13-acf2783d892f",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "63ebe5ba-4f27-4b37-8f92-e98e1bba9c9f",
+            "characterName": "旧货摊老板",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": true,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "哼臭小子",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d333e4f1-9bc3-4572-aa49-1d6bb6bc52f0",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "63ebe5ba-4f27-4b37-8f92-e98e1bba9c9f",
+            "characterName": "旧货摊老板",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "不识好歹",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ea0fadfa-c9f4-49a6-af60-566d13484d80",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "63ebe5ba-4f27-4b37-8f92-e98e1bba9c9f",
+            "characterName": "旧货摊老板",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          }
+        }
+      ]
+    }
+  ]
+}
