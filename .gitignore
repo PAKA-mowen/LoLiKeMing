@@ -1,0 +1,9 @@
+# LetsGal Studio 运行时目录（勿删以下条目）
+.studio-history/
+.studio/
+logs/
+dist/
+node_modules/
+.DS_Store
+extensions/**/.studio-bundle.json
+extensions/**/.snapshot-lifecycle-*

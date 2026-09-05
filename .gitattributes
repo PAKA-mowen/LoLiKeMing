@@ -1,0 +1,2 @@
+# 素材走 Git LFS（大文件指针化，勿删）
+assets/** filter=lfs diff=lfs merge=lfs -text
