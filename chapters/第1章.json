@@ -129,7 +129,7 @@
             "disabled": false,
             "soundType": "BGM",
             "soundId": "",
-            "fadeDuration": ""
+            "fadeDuration": "3000"
           }
         },
         {
@@ -211,6 +211,19 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "e1e1f241-c27c-42c9-97ff-cb8275c4171a",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "",
+            "uri": "bgm/Ballycastle - John Ryan's Polka.mp3",
+            "volume": "100",
+            "loop": "true",
+            "fadeDuration": ""
+          }
         },
         {
           "id": "71d192e4-c316-4498-ab96-2ed7db9f7e30",
@@ -855,6 +868,16 @@
           ]
         },
         {
+          "id": "ebed116e-dc19-42b1-bd36-a487f9db5699",
+          "type": "stopSound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "",
+            "fadeDuration": "4000"
+          }
+        },
+        {
           "id": "fb1a6aa8-a1a4-44f4-9b75-9327ddd441ee",
           "type": "narration",
           "props": {
@@ -869,6 +892,19 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "eb46498b-20ce-4bc2-960f-da8af7bf35c4",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "",
+            "uri": "bgm/Wolfgang Amadeus Mozart - Menuet D major.mp3",
+            "volume": "68",
+            "loop": "true",
+            "fadeDuration": "2000"
+          }
         },
         {
           "id": "d0282524-873f-4664-a848-8479f61c35a1",
@@ -1106,11 +1142,21 @@
           ]
         },
         {
+          "id": "362e2c05-8f29-4a1e-9e2f-813fc7db82ce",
+          "type": "stopSound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "",
+            "fadeDuration": "2000"
+          }
+        },
+        {
           "id": "9549245a-dc2e-4f87-9224-7dfa0bf0342d",
           "type": "narration",
           "props": {
             "disabled": false,
-            "keepDialogue": false,
+            "keepDialogue": true,
             "voiceHash": ""
           },
           "content": [
@@ -1120,6 +1166,147 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "b4a906fb-b328-49c0-9199-d1a2a89774c3",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "",
+            "uri": "bgm/八奈见杏菜 - Empty Love（哈基米版）.mp3",
+            "volume": "100",
+            "loop": "true",
+            "fadeDuration": "1500"
+          }
+        },
+        {
+          "id": "987e5401-3aff-46ca-9e6c-9428039ef77e",
+          "type": "camera",
+          "props": {
+            "disabled": false,
+            "offsetX": "",
+            "offsetY": "",
+            "zoom": "",
+            "focalDistance": "",
+            "blurStrength": "",
+            "duration": "650",
+            "easing": "linear",
+            "waitForComplete": "true",
+            "tweenFields": "offsetX,offsetY,zoom,focalDistance,blurStrength,distortionStrength,vignetteIntensity,blurAmount,colorToneIntensity,colorExposure,colorBrightness,colorContrast,colorSaturation,colorTemperature,oldFilmIntensity,shockIntensity,godrayIntensity,lutIntensity,bloomIntensity,chromaticAberration,pixelateSize,glitchIntensity,crtIntensity,sharpenStrength,radialBlurStrength,motionBlurStrength,zoomBlurStrength,lightLeakIntensity,lensFlareIntensity,filmGrainIntensity,heatHazeIntensity,waterRippleIntensity,fogIntensity,vhsIntensity,halftoneIntensity,ditherIntensity,outlineIntensity,speedLinesIntensity,inkSplashIntensity,smokeOverlayIntensity,eyelidOpenness",
+            "targets": "scene,characters",
+            "objectTargetsJson": "",
+            "targetSelectionPending": "",
+            "distortionStrength": "",
+            "vignetteIntensity": "",
+            "vignetteSize": "",
+            "blurAmount": "",
+            "colorToneMode": "none",
+            "colorToneIntensity": "",
+            "colorExposure": "",
+            "colorBrightness": "",
+            "colorContrast": "",
+            "colorSaturation": "",
+            "colorTemperature": "",
+            "oldFilmIntensity": "",
+            "shockIntensity": "",
+            "godrayIntensity": "",
+            "godrayAngle": "",
+            "godrayGain": "",
+            "godrayLacunarity": "",
+            "godraySpeed": "",
+            "godrayParallel": "",
+            "godrayCenterX": "",
+            "godrayCenterY": "",
+            "godrayConeAngle": "",
+            "godrayConeSoftness": "",
+            "godrayDistance": "",
+            "lutPreset": "",
+            "lutIntensity": "",
+            "bloomIntensity": "",
+            "chromaticAberration": "",
+            "pixelateSize": "",
+            "glitchIntensity": "",
+            "crtIntensity": "",
+            "sharpenStrength": "",
+            "radialBlurStrength": "",
+            "radialBlurCenterX": "",
+            "radialBlurCenterY": "",
+            "motionBlurStrength": "",
+            "motionBlurAngle": "",
+            "zoomBlurStrength": "",
+            "zoomBlurCenterX": "",
+            "zoomBlurCenterY": "",
+            "lightLeakIntensity": "",
+            "lightLeakAngle": "",
+            "lensFlareIntensity": "",
+            "lensFlareCenterX": "",
+            "lensFlareCenterY": "",
+            "filmGrainIntensity": "",
+            "filmGrainSize": "",
+            "heatHazeIntensity": "",
+            "heatHazeSpeed": "",
+            "heatHazeScale": "",
+            "waterRippleIntensity": "",
+            "waterRippleFrequency": "",
+            "waterRippleSpeed": "",
+            "waterRippleCenterX": "",
+            "waterRippleCenterY": "",
+            "fogIntensity": "",
+            "fogSpeed": "",
+            "fogScale": "",
+            "vhsIntensity": "",
+            "vhsJitter": "",
+            "vhsNoise": "",
+            "halftoneIntensity": "",
+            "halftoneScale": "",
+            "halftoneAngle": "",
+            "ditherIntensity": "",
+            "ditherLevels": "",
+            "outlineIntensity": "",
+            "outlineThickness": "",
+            "speedLinesIntensity": "",
+            "speedLinesMode": "radial",
+            "speedLinesDensity": "",
+            "speedLinesAngle": "",
+            "speedLinesSpeed": "",
+            "speedLinesFlicker": "",
+            "speedLinesIrregularity": "",
+            "speedLinesLength": "",
+            "speedLinesThickness": "",
+            "speedLinesThicknessVariation": "",
+            "speedLinesTone": "",
+            "speedLinesFocus": "",
+            "speedLinesCenterX": "",
+            "speedLinesCenterY": "",
+            "inkSplashIntensity": "",
+            "inkSplashVariant": "cluster",
+            "inkSplashScale": "",
+            "inkSplashRotation": "",
+            "inkSplashTone": "",
+            "inkSplashCenterX": "",
+            "inkSplashCenterY": "",
+            "smokeOverlayIntensity": "",
+            "smokeOverlayVariant": "full",
+            "smokeOverlayStyle": "warm",
+            "smokeOverlayTone": "",
+            "smokeOverlayScale": "",
+            "smokeOverlaySpeed": "",
+            "eyelidOpenness": "",
+            "eyelidWidth": "",
+            "eyelidCurvature": "",
+            "eyelidSoftness": "",
+            "eyelidCenterX": "",
+            "eyelidCenterY": "",
+            "shakeAmplitude": "60",
+            "shakeFrequency": "0.5",
+            "shakeAmplitudeRandomness": "0",
+            "shakeFrequencyRandomness": "0",
+            "shakeDuration": "",
+            "shakeFalloff": "linear",
+            "shakeAxis": "y",
+            "presetId": ""
+          }
         },
         {
           "id": "2bebf8e9-6d68-4984-8e4b-5aaf5eef210f",
@@ -1674,6 +1861,16 @@
           ]
         },
         {
+          "id": "5fa337bd-594e-4399-a0c2-30dc93a2cadd",
+          "type": "stopSound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "",
+            "fadeDuration": "5000"
+          }
+        },
+        {
           "id": "ed841968-a7ed-4cd1-b1ec-3db08c66c492",
           "type": "dialogue",
           "props": {
@@ -1726,7 +1923,7 @@
             "distance": "",
             "position": "",
             "isFirst": false,
-            "isLast": false,
+            "isLast": true,
             "prevExpression": "",
             "prevNameVariantId": "",
             "showCharacter": true,
@@ -1754,6 +1951,147 @@
           ]
         },
         {
+          "id": "c7bb7ee8-2938-466b-b08f-10f558c74603",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "",
+            "uri": "bgm/岩崎琢 - 人形の館.mp3",
+            "volume": "41",
+            "loop": "true",
+            "fadeDuration": "4000"
+          }
+        },
+        {
+          "id": "1590a2c9-8956-43e9-9c10-c96b5d583869",
+          "type": "camera",
+          "props": {
+            "disabled": false,
+            "offsetX": "",
+            "offsetY": "",
+            "zoom": "1.56",
+            "focalDistance": "",
+            "blurStrength": "",
+            "duration": "2800",
+            "easing": "easeOutSine",
+            "waitForComplete": "true",
+            "tweenFields": "offsetX,offsetY,zoom,focalDistance,blurStrength,distortionStrength,vignetteIntensity,blurAmount,colorToneIntensity,colorExposure,colorBrightness,colorContrast,colorSaturation,colorTemperature,oldFilmIntensity,shockIntensity,godrayIntensity,lutIntensity,bloomIntensity,chromaticAberration,pixelateSize,glitchIntensity,crtIntensity,sharpenStrength,radialBlurStrength,motionBlurStrength,zoomBlurStrength,lightLeakIntensity,lensFlareIntensity,filmGrainIntensity,heatHazeIntensity,waterRippleIntensity,fogIntensity,vhsIntensity,halftoneIntensity,ditherIntensity,outlineIntensity,speedLinesIntensity,inkSplashIntensity,smokeOverlayIntensity,eyelidOpenness",
+            "targets": "scene,characters",
+            "objectTargetsJson": "",
+            "targetSelectionPending": "",
+            "distortionStrength": "",
+            "vignetteIntensity": "",
+            "vignetteSize": "",
+            "blurAmount": "",
+            "colorToneMode": "none",
+            "colorToneIntensity": "",
+            "colorExposure": "",
+            "colorBrightness": "",
+            "colorContrast": "",
+            "colorSaturation": "",
+            "colorTemperature": "",
+            "oldFilmIntensity": "",
+            "shockIntensity": "",
+            "godrayIntensity": "",
+            "godrayAngle": "",
+            "godrayGain": "",
+            "godrayLacunarity": "",
+            "godraySpeed": "",
+            "godrayParallel": "",
+            "godrayCenterX": "",
+            "godrayCenterY": "",
+            "godrayConeAngle": "",
+            "godrayConeSoftness": "",
+            "godrayDistance": "",
+            "lutPreset": "",
+            "lutIntensity": "",
+            "bloomIntensity": "",
+            "chromaticAberration": "",
+            "pixelateSize": "",
+            "glitchIntensity": "",
+            "crtIntensity": "",
+            "sharpenStrength": "",
+            "radialBlurStrength": "",
+            "radialBlurCenterX": "",
+            "radialBlurCenterY": "",
+            "motionBlurStrength": "",
+            "motionBlurAngle": "",
+            "zoomBlurStrength": "",
+            "zoomBlurCenterX": "",
+            "zoomBlurCenterY": "",
+            "lightLeakIntensity": "",
+            "lightLeakAngle": "",
+            "lensFlareIntensity": "",
+            "lensFlareCenterX": "",
+            "lensFlareCenterY": "",
+            "filmGrainIntensity": "",
+            "filmGrainSize": "",
+            "heatHazeIntensity": "",
+            "heatHazeSpeed": "",
+            "heatHazeScale": "",
+            "waterRippleIntensity": "",
+            "waterRippleFrequency": "",
+            "waterRippleSpeed": "",
+            "waterRippleCenterX": "",
+            "waterRippleCenterY": "",
+            "fogIntensity": "",
+            "fogSpeed": "",
+            "fogScale": "",
+            "vhsIntensity": "",
+            "vhsJitter": "",
+            "vhsNoise": "",
+            "halftoneIntensity": "",
+            "halftoneScale": "",
+            "halftoneAngle": "",
+            "ditherIntensity": "",
+            "ditherLevels": "",
+            "outlineIntensity": "",
+            "outlineThickness": "",
+            "speedLinesIntensity": "",
+            "speedLinesMode": "radial",
+            "speedLinesDensity": "",
+            "speedLinesAngle": "",
+            "speedLinesSpeed": "",
+            "speedLinesFlicker": "",
+            "speedLinesIrregularity": "",
+            "speedLinesLength": "",
+            "speedLinesThickness": "",
+            "speedLinesThicknessVariation": "",
+            "speedLinesTone": "",
+            "speedLinesFocus": "",
+            "speedLinesCenterX": "",
+            "speedLinesCenterY": "",
+            "inkSplashIntensity": "",
+            "inkSplashVariant": "cluster",
+            "inkSplashScale": "",
+            "inkSplashRotation": "",
+            "inkSplashTone": "",
+            "inkSplashCenterX": "",
+            "inkSplashCenterY": "",
+            "smokeOverlayIntensity": "",
+            "smokeOverlayVariant": "full",
+            "smokeOverlayStyle": "warm",
+            "smokeOverlayTone": "",
+            "smokeOverlayScale": "",
+            "smokeOverlaySpeed": "",
+            "eyelidOpenness": "",
+            "eyelidWidth": "",
+            "eyelidCurvature": "",
+            "eyelidSoftness": "",
+            "eyelidCenterX": "",
+            "eyelidCenterY": "",
+            "shakeAmplitude": "",
+            "shakeFrequency": "",
+            "shakeAmplitudeRandomness": "0",
+            "shakeFrequencyRandomness": "0",
+            "shakeDuration": "",
+            "shakeFalloff": "linear",
+            "shakeAxis": "both",
+            "presetId": ""
+          }
+        },
+        {
           "id": "d249cd85-cc7b-4fee-a39d-97a7523b0095",
           "type": "dialogue",
           "props": {
@@ -1765,8 +2103,8 @@
             "skin": "",
             "distance": "",
             "position": "",
-            "isFirst": false,
-            "isLast": false,
+            "isFirst": true,
+            "isLast": true,
             "prevExpression": "",
             "prevNameVariantId": "",
             "showCharacter": true,
@@ -1794,6 +2132,134 @@
           ]
         },
         {
+          "id": "7168fa46-27b6-4a98-9004-eabd6a7bcc8e",
+          "type": "camera",
+          "props": {
+            "disabled": false,
+            "offsetX": "",
+            "offsetY": "",
+            "zoom": "1.00",
+            "focalDistance": "",
+            "blurStrength": "",
+            "duration": "2250",
+            "easing": "easeInSine",
+            "waitForComplete": "true",
+            "tweenFields": "offsetX,offsetY,zoom,focalDistance,blurStrength,distortionStrength,vignetteIntensity,blurAmount,colorToneIntensity,colorExposure,colorBrightness,colorContrast,colorSaturation,colorTemperature,oldFilmIntensity,shockIntensity,godrayIntensity,lutIntensity,bloomIntensity,chromaticAberration,pixelateSize,glitchIntensity,crtIntensity,sharpenStrength,radialBlurStrength,motionBlurStrength,zoomBlurStrength,lightLeakIntensity,lensFlareIntensity,filmGrainIntensity,heatHazeIntensity,waterRippleIntensity,fogIntensity,vhsIntensity,halftoneIntensity,ditherIntensity,outlineIntensity,speedLinesIntensity,inkSplashIntensity,smokeOverlayIntensity,eyelidOpenness",
+            "targets": "scene,characters",
+            "objectTargetsJson": "",
+            "targetSelectionPending": "",
+            "distortionStrength": "",
+            "vignetteIntensity": "",
+            "vignetteSize": "",
+            "blurAmount": "",
+            "colorToneMode": "none",
+            "colorToneIntensity": "",
+            "colorExposure": "",
+            "colorBrightness": "",
+            "colorContrast": "",
+            "colorSaturation": "",
+            "colorTemperature": "",
+            "oldFilmIntensity": "",
+            "shockIntensity": "",
+            "godrayIntensity": "",
+            "godrayAngle": "",
+            "godrayGain": "",
+            "godrayLacunarity": "",
+            "godraySpeed": "",
+            "godrayParallel": "",
+            "godrayCenterX": "",
+            "godrayCenterY": "",
+            "godrayConeAngle": "",
+            "godrayConeSoftness": "",
+            "godrayDistance": "",
+            "lutPreset": "",
+            "lutIntensity": "",
+            "bloomIntensity": "",
+            "chromaticAberration": "",
+            "pixelateSize": "",
+            "glitchIntensity": "",
+            "crtIntensity": "",
+            "sharpenStrength": "",
+            "radialBlurStrength": "",
+            "radialBlurCenterX": "",
+            "radialBlurCenterY": "",
+            "motionBlurStrength": "",
+            "motionBlurAngle": "",
+            "zoomBlurStrength": "",
+            "zoomBlurCenterX": "",
+            "zoomBlurCenterY": "",
+            "lightLeakIntensity": "",
+            "lightLeakAngle": "",
+            "lensFlareIntensity": "",
+            "lensFlareCenterX": "",
+            "lensFlareCenterY": "",
+            "filmGrainIntensity": "",
+            "filmGrainSize": "",
+            "heatHazeIntensity": "",
+            "heatHazeSpeed": "",
+            "heatHazeScale": "",
+            "waterRippleIntensity": "",
+            "waterRippleFrequency": "",
+            "waterRippleSpeed": "",
+            "waterRippleCenterX": "",
+            "waterRippleCenterY": "",
+            "fogIntensity": "",
+            "fogSpeed": "",
+            "fogScale": "",
+            "vhsIntensity": "",
+            "vhsJitter": "",
+            "vhsNoise": "",
+            "halftoneIntensity": "",
+            "halftoneScale": "",
+            "halftoneAngle": "",
+            "ditherIntensity": "",
+            "ditherLevels": "",
+            "outlineIntensity": "",
+            "outlineThickness": "",
+            "speedLinesIntensity": "",
+            "speedLinesMode": "radial",
+            "speedLinesDensity": "",
+            "speedLinesAngle": "",
+            "speedLinesSpeed": "",
+            "speedLinesFlicker": "",
+            "speedLinesIrregularity": "",
+            "speedLinesLength": "",
+            "speedLinesThickness": "",
+            "speedLinesThicknessVariation": "",
+            "speedLinesTone": "",
+            "speedLinesFocus": "",
+            "speedLinesCenterX": "",
+            "speedLinesCenterY": "",
+            "inkSplashIntensity": "",
+            "inkSplashVariant": "cluster",
+            "inkSplashScale": "",
+            "inkSplashRotation": "",
+            "inkSplashTone": "",
+            "inkSplashCenterX": "",
+            "inkSplashCenterY": "",
+            "smokeOverlayIntensity": "",
+            "smokeOverlayVariant": "full",
+            "smokeOverlayStyle": "warm",
+            "smokeOverlayTone": "",
+            "smokeOverlayScale": "",
+            "smokeOverlaySpeed": "",
+            "eyelidOpenness": "",
+            "eyelidWidth": "",
+            "eyelidCurvature": "",
+            "eyelidSoftness": "",
+            "eyelidCenterX": "",
+            "eyelidCenterY": "",
+            "shakeAmplitude": "",
+            "shakeFrequency": "",
+            "shakeAmplitudeRandomness": "0",
+            "shakeFrequencyRandomness": "0",
+            "shakeDuration": "",
+            "shakeFalloff": "linear",
+            "shakeAxis": "both",
+            "presetId": ""
+          }
+        },
+        {
           "id": "5a8104bf-e38b-402c-9180-b85c2d523945",
           "type": "dialogue",
           "props": {
@@ -1805,7 +2271,7 @@
             "skin": "",
             "distance": "",
             "position": "",
-            "isFirst": false,
+            "isFirst": true,
             "isLast": false,
             "prevExpression": "",
             "prevNameVariantId": "",
@@ -1890,6 +2356,134 @@
           ]
         },
         {
+          "id": "bb623ffb-c486-457b-add9-3360059a0eea",
+          "type": "camera",
+          "props": {
+            "disabled": false,
+            "offsetX": "",
+            "offsetY": "",
+            "zoom": "",
+            "focalDistance": "",
+            "blurStrength": "",
+            "duration": "500",
+            "easing": "linear",
+            "waitForComplete": "true",
+            "tweenFields": "offsetX,offsetY,zoom,focalDistance,blurStrength,distortionStrength,vignetteIntensity,blurAmount,colorToneIntensity,colorExposure,colorBrightness,colorContrast,colorSaturation,colorTemperature,oldFilmIntensity,shockIntensity,godrayIntensity,lutIntensity,bloomIntensity,chromaticAberration,pixelateSize,glitchIntensity,crtIntensity,sharpenStrength,radialBlurStrength,motionBlurStrength,zoomBlurStrength,lightLeakIntensity,lensFlareIntensity,filmGrainIntensity,heatHazeIntensity,waterRippleIntensity,fogIntensity,vhsIntensity,halftoneIntensity,ditherIntensity,outlineIntensity,speedLinesIntensity,inkSplashIntensity,smokeOverlayIntensity,eyelidOpenness",
+            "targets": "scene,characters",
+            "objectTargetsJson": "",
+            "targetSelectionPending": "",
+            "distortionStrength": "",
+            "vignetteIntensity": "",
+            "vignetteSize": "",
+            "blurAmount": "",
+            "colorToneMode": "none",
+            "colorToneIntensity": "",
+            "colorExposure": "",
+            "colorBrightness": "",
+            "colorContrast": "",
+            "colorSaturation": "",
+            "colorTemperature": "",
+            "oldFilmIntensity": "",
+            "shockIntensity": "",
+            "godrayIntensity": "",
+            "godrayAngle": "",
+            "godrayGain": "",
+            "godrayLacunarity": "",
+            "godraySpeed": "",
+            "godrayParallel": "",
+            "godrayCenterX": "",
+            "godrayCenterY": "",
+            "godrayConeAngle": "",
+            "godrayConeSoftness": "",
+            "godrayDistance": "",
+            "lutPreset": "",
+            "lutIntensity": "",
+            "bloomIntensity": "",
+            "chromaticAberration": "",
+            "pixelateSize": "",
+            "glitchIntensity": "",
+            "crtIntensity": "",
+            "sharpenStrength": "",
+            "radialBlurStrength": "",
+            "radialBlurCenterX": "",
+            "radialBlurCenterY": "",
+            "motionBlurStrength": "",
+            "motionBlurAngle": "",
+            "zoomBlurStrength": "",
+            "zoomBlurCenterX": "",
+            "zoomBlurCenterY": "",
+            "lightLeakIntensity": "",
+            "lightLeakAngle": "",
+            "lensFlareIntensity": "",
+            "lensFlareCenterX": "",
+            "lensFlareCenterY": "",
+            "filmGrainIntensity": "",
+            "filmGrainSize": "",
+            "heatHazeIntensity": "",
+            "heatHazeSpeed": "",
+            "heatHazeScale": "",
+            "waterRippleIntensity": "",
+            "waterRippleFrequency": "",
+            "waterRippleSpeed": "",
+            "waterRippleCenterX": "",
+            "waterRippleCenterY": "",
+            "fogIntensity": "",
+            "fogSpeed": "",
+            "fogScale": "",
+            "vhsIntensity": "",
+            "vhsJitter": "",
+            "vhsNoise": "",
+            "halftoneIntensity": "",
+            "halftoneScale": "",
+            "halftoneAngle": "",
+            "ditherIntensity": "",
+            "ditherLevels": "",
+            "outlineIntensity": "",
+            "outlineThickness": "",
+            "speedLinesIntensity": "",
+            "speedLinesMode": "radial",
+            "speedLinesDensity": "",
+            "speedLinesAngle": "",
+            "speedLinesSpeed": "",
+            "speedLinesFlicker": "",
+            "speedLinesIrregularity": "",
+            "speedLinesLength": "",
+            "speedLinesThickness": "",
+            "speedLinesThicknessVariation": "",
+            "speedLinesTone": "",
+            "speedLinesFocus": "",
+            "speedLinesCenterX": "",
+            "speedLinesCenterY": "",
+            "inkSplashIntensity": "",
+            "inkSplashVariant": "cluster",
+            "inkSplashScale": "",
+            "inkSplashRotation": "",
+            "inkSplashTone": "",
+            "inkSplashCenterX": "",
+            "inkSplashCenterY": "",
+            "smokeOverlayIntensity": "",
+            "smokeOverlayVariant": "full",
+            "smokeOverlayStyle": "warm",
+            "smokeOverlayTone": "",
+            "smokeOverlayScale": "",
+            "smokeOverlaySpeed": "",
+            "eyelidOpenness": "",
+            "eyelidWidth": "",
+            "eyelidCurvature": "",
+            "eyelidSoftness": "",
+            "eyelidCenterX": "",
+            "eyelidCenterY": "",
+            "shakeAmplitude": "3",
+            "shakeFrequency": "27.5",
+            "shakeAmplitudeRandomness": "0",
+            "shakeFrequencyRandomness": "0",
+            "shakeDuration": "",
+            "shakeFalloff": "linear",
+            "shakeAxis": "both",
+            "presetId": ""
+          }
+        },
+        {
           "id": "f1e8edb1-e2c4-472a-81ff-f5abd79f96be",
           "type": "narration",
           "props": {
@@ -1922,7 +2516,17 @@
           ]
         },
         {
-          "id": "3cab3e55-e0d9-4db8-b5b7-47a1e3e6ce58",
+          "id": "04783286-4c63-4fc4-afa3-7a3eff70f1cc",
+          "type": "stopSound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "",
+            "fadeDuration": "1000"
+          }
+        },
+        {
+          "id": "e89f0d11-3a51-4a4e-a547-7a4d793281c7",
           "type": "narration",
           "props": {
             "disabled": false,
@@ -1932,7 +2536,36 @@
           "content": [
             {
               "type": "text",
-              "text": "瞬间变成了一个金发萝莉！",
+              "text": "瞬间变成了一个......",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b67416b3-4a55-47f1-aa60-53008534e0c7",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "",
+            "uri": "bgm/橋本由香利 - お色気ムンムン.mp3",
+            "volume": "46",
+            "loop": "true",
+            "fadeDuration": "1300"
+          }
+        },
+        {
+          "id": "652d8876-d05b-43ad-a564-e925afdda400",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "金 发 萝 莉！! !",
               "styles": {}
             }
           ]
@@ -2522,13 +3155,813 @@
           ]
         },
         {
-          "id": "7be9a137-4de7-4a81-8496-bbcb5124b7f0",
+          "id": "fc3e4c0b-8c98-4e8b-bced-9852e588253b",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我....我......",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d10e6565-7139-49c3-b398-0e2d43d1059c",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "啊啊啊啊",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0a50f78a-912b-410f-b862-2d04c33f4e26",
           "type": "narration",
           "props": {
             "disabled": false,
             "keepDialogue": true,
             "voiceHash": ""
-          }
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "科明大叫着转身就要跑",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5281cdc2-96e4-4622-bd62-df24c461b79d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "但是腿太短了根本跑不快",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3e6e2fe7-1844-4398-8db4-b98ead88a77f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你一把抓住了科明",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5b477deb-2e6d-40a3-a7bf-d9bb3c486ea7",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "把他",
+              "styles": {}
+            },
+            {
+              "type": "text",
+              "text": "拎",
+              "styles": {
+                "textColor": "rgb(15, 17, 21)",
+                "backgroundColor": "rgb(255, 255, 255)"
+              }
+            },
+            {
+              "type": "text",
+              "text": "起来",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0d8f9123-4d81-4843-a6bc-c0e97876a5f6",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "唉，科明",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a5e67d86-e9e2-4dca-b04e-fd7ef2f69252",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我问你",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2778ca35-102d-45b1-b379-3aaff8d73a99",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你是我最好的兄弟吧？",
+              "styles": {
+                "textColor": "rgb(15, 17, 21)",
+                "backgroundColor": "rgb(255, 255, 255)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "7c7cda31-1ecf-419e-8a4d-c7cb9cec8d0e",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": false,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "才不...\n是……是又怎样！",
+              "styles": {
+                "textColor": "rgb(15, 17, 21)",
+                "backgroundColor": "rgb(255, 255, 255)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1808533b-3384-4e4e-aedd-a6f2c4bc612b",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你刚刚是不是说了才不是？",
+              "styles": {
+                "textColor": "rgb(15, 17, 21)",
+                "backgroundColor": "rgb(255, 255, 255)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "53685f34-d524-455e-b64c-6e3bcd499523",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": false,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我、我什么都没......说！",
+              "styles": {
+                "textColor": "rgb(15, 17, 21)",
+                "backgroundColor": "rgb(255, 255, 255)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "633dbe16-36c8-4bb4-a17f-994309bab017",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "",
+            "position": "",
+            "isFirst": false,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "(憋红了脸)",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d81ad06c-ba92-4fda-8e6c-2192712a52e5",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "那你到底是不是我最好的兄弟？",
+              "styles": {
+                "textColor": "rgb(15, 17, 21)",
+                "backgroundColor": "rgb(255, 255, 255)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "89c26d4e-37f9-4f7e-8f56-72c3a4917032",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "是……是啦！烦死了！",
+              "styles": {
+                "textColor": "rgb(15, 17, 21)",
+                "backgroundColor": "rgb(255, 255, 255)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "b5600e7b-00c7-4678-9ca8-ae1d56581c28",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "承认了？",
+              "styles": {
+                "textColor": "rgb(15, 17, 21)",
+                "backgroundColor": "rgb(255, 255, 255)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "aeae8374-f188-47c5-bd01-f4c5484cde1c",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": false,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "谁、谁承认了！这是药水逼我的！",
+              "styles": {
+                "textColor": "rgb(15, 17, 21)",
+                "backgroundColor": "rgb(255, 255, 255)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ef4b9d03-6716-425c-80a7-ab9a5c9b5182",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "哦？那药水逼你说真话，所以你就是这么想的？",
+              "styles": {
+                "textColor": "rgb(15, 17, 21)",
+                "backgroundColor": "rgb(255, 255, 255)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "4678fb3a-c9cd-4aea-b0c4-cafb6a586d46",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我……我才没有这么想！",
+              "styles": {
+                "textColor": "rgb(15, 17, 21)",
+                "backgroundColor": "rgb(255, 255, 255)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "44b447ef-b849-4e0c-91d4-c32dda86d91d",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "那你脸红什么？",
+              "styles": {
+                "textColor": "rgb(15, 17, 21)",
+                "backgroundColor": "rgb(255, 255, 255)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "2b9ae314-bd2e-4e2c-b86b-7c806b33761c",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "nameVariantId": "",
+            "expression": "",
+            "skin": "",
+            "distance": "middle",
+            "position": "center",
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "prevNameVariantId": "",
+            "showCharacter": true,
+            "dialoguePortraitOnly": false,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "voiceHash": "",
+            "entryMotionPreset": "",
+            "entryMotionDuration": 300,
+            "entryMotionIntensity": 1,
+            "entryMotionDirection": "auto",
+            "entryMotionWait": false,
+            "exitMotionPreset": "",
+            "exitMotionDuration": 300,
+            "exitMotionIntensity": 1,
+            "exitMotionDirection": "auto",
+            "exitMotionWait": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你管我！我、我这是热的！",
+              "styles": {
+                "textColor": "rgb(15, 17, 21)",
+                "backgroundColor": "rgb(255, 255, 255)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1e1da4a2-1cdc-4ee4-944b-9ba4e5eb6d2a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "第一章结束了喵，下面的明天再做喵~",
+              "styles": {}
+            }
+          ]
         }
       ]
     },
