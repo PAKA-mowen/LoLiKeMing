@@ -43,7 +43,7 @@
           }
         },
         {
-          "id": "10d0514c-9379-45d0-8437-b505985f4f54",
+          "id": "87d6fdfe-46c4-4015-a373-96412247561b",
           "type": "floatingText",
           "props": {
             "disabled": false,
@@ -3922,8 +3922,8 @@
             "prevNameVariantId": "",
             "showCharacter": true,
             "dialoguePortraitOnly": false,
-            "keepCharacter": true,
-            "keepDialogue": true,
+            "keepCharacter": false,
+            "keepDialogue": false,
             "voiceHash": "",
             "entryMotionPreset": "",
             "entryMotionDuration": 300,
@@ -3948,20 +3948,49 @@
           ]
         },
         {
-          "id": "1e1da4a2-1cdc-4ee4-944b-9ba4e5eb6d2a",
-          "type": "narration",
+          "id": "89297648-d384-4785-934b-3e051464ea13",
+          "type": "stopSound",
           "props": {
             "disabled": false,
-            "keepDialogue": true,
-            "voiceHash": ""
-          },
-          "content": [
-            {
-              "type": "text",
-              "text": "第一章结束了喵，下面的明天再做喵~",
-              "styles": {}
-            }
-          ]
+            "soundType": "BGM",
+            "soundId": "",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "8a6a0652-ccef-4691-8da4-cc5691a77e42",
+          "type": "destroyScene",
+          "props": {
+            "disabled": false,
+            "sceneId": "all",
+            "sceneName": "",
+            "animated": "true",
+            "waitForComplete": "false"
+          }
+        },
+        {
+          "id": "d8b880f5-c13d-4088-b57a-ea8cc9dce7a2",
+          "type": "resetCamera",
+          "props": {
+            "disabled": false,
+            "resetMode": "instant",
+            "duration": "500",
+            "easing": "easeInOut",
+            "waitForComplete": "true"
+          }
+        },
+        {
+          "id": "fbd74e28-9a69-437a-86eb-390b39e7b274",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "close",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
         }
       ]
     },

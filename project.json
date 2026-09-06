@@ -20,7 +20,7 @@
   },
   "backgroundColor": "#000000",
   "window": {
-    "lockAspectRatio": false,
+    "lockAspectRatio": true,
     "allowMaximize": true,
     "allowFullscreen": true,
     "launchMode": "windowed"
@@ -48,6 +48,12 @@
   "chapterOrder": [
     "开始",
     "第1章",
+    "第2章",
+    "第3章",
+    "第4章",
+    "结局一：HE",
+    "结局二：BE",
+    "结局三：NE",
     "章节前处理"
   ],
   "chapterFolders": [],
@@ -59,19 +65,50 @@
     {
       "type": "chapter",
       "id": "ch-1788595131163-1"
+    },
+    {
+      "type": "chapter",
+      "id": "ch-1788683434913-1"
+    },
+    {
+      "type": "chapter",
+      "id": "ch-1788684045093-5"
+    },
+    {
+      "type": "chapter",
+      "id": "ch-1788684036519-3"
+    },
+    {
+      "type": "chapter",
+      "id": "ch-1788685094506-7"
+    },
+    {
+      "type": "chapter",
+      "id": "ch-1788685785435-9"
+    },
+    {
+      "type": "chapter",
+      "id": "ch-1788685815379-12"
     }
   ],
-  "scheduleMode": "basic",
+  "scheduleMode": "advanced",
   "schedule": {
     "id": "root",
-    "entryChapterCount": 0,
+    "entryChapterCount": 5,
     "strategy": {
       "type": "extension",
       "target": ""
     }
   },
   "extensionStorageVersion": 1,
-  "extensions": {},
+  "extensions": {
+    "avg.pinka.script-word-counter": {
+      "enabled": true,
+      "bundle": {
+        "version": "1.0.1"
+      }
+    }
+  },
   "extensionSettings": {},
   "dataBindings": {},
   "dynamicVisualAssets": []

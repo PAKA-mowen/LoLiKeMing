@@ -1,0 +1,10 @@
+{
+  "id": "avg.pinka.script-word-counter",
+  "name": "剧本字数统计",
+  "author": "Pinka",
+  "version": "1.0.1",
+  "entry": "dist/index.js",
+  "hasProgram": false,
+  "sdkVersion": ">=1.0.0",
+  "description": "统计游戏中的字数和句数"
+}

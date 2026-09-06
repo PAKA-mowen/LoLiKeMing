@@ -50,6 +50,16 @@
           "assetPath": "characters/1788596496707.png"
         }
       ]
+    },
+    {
+      "id": "fa54ae2d-a2aa-4b6a-aca5-aa1652524658",
+      "name": "售货员",
+      "expressions": []
+    },
+    {
+      "id": "c3423af0-b9b1-410f-ab2f-f50429466b65",
+      "name": "假面小小科明",
+      "expressions": []
     }
   ]
 }

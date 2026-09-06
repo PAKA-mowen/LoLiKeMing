@@ -1,0 +1,5127 @@
+{
+  "id": "ch-1788684045093-5",
+  "name": "第3章",
+  "fragments": [
+    {
+      "id": "frag-1788684045093-6",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "85594600-dbaa-42ee-8b2c-56d2e6b7090f",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "我在网上查到，真心水晶藏在城市郊外一座废弃游乐园的镜之迷宫里。据说那迷宫能读取人心，放大真实自我，一般人进去会发疯。我把消息告诉科明时，他正窝在沙发上吃薯片。"
+            }
+          ]
+        },
+        {
+          "id": "e62f13f9-4b24-4b4d-b3a5-38c67a704a48",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我查到解药线索了。"
+            }
+          ]
+        },
+        {
+          "id": "28f17433-ce34-4188-983e-3feb052599c9",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "哦？在哪儿？"
+            }
+          ]
+        },
+        {
+          "id": "4ddd00d3-39d8-4711-a844-d1d5edf1b913",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "郊外废弃游乐园，镜之迷宫。"
+            }
+          ]
+        },
+        {
+          "id": "e96b180e-dba1-4132-85a4-92dbf32bc47d",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "废弃游乐园？听着就很不靠谱。"
+            }
+          ]
+        },
+        {
+          "id": "432fb692-f760-45ab-8dce-eef04c32e887",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "据说迷宫会逼你说真话，不然过不去。"
+            }
+          ]
+        },
+        {
+          "id": "10086219-5374-43e5-876c-04d661a5018b",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "那、那我不去了。"
+            }
+          ]
+        },
+        {
+          "id": "249f87fd-0eb6-41e1-b505-5a959d3b6a57",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你不去，就永远当萝莉吧。"
+            }
+          ]
+        },
+        {
+          "id": "94adc116-0f60-4762-b8f2-ef9cc119318d",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我、我说不去是因为……那种地方肯定很危险。"
+            }
+          ]
+        },
+        {
+          "id": "92b3ede9-aa97-49f6-8143-d5960dc4679f",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你怕了？"
+            }
+          ]
+        },
+        {
+          "id": "46f25922-a597-4557-bae8-4cf302446344",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "谁怕了！我科明会怕？"
+            }
+          ]
+        },
+        {
+          "id": "36303d0c-c774-48d1-9530-edf7076271e9",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他猛地站起来，手里的薯片撒了一地。"
+            }
+          ]
+        },
+        {
+          "id": "3ae9f431-bad0-447a-b54e-cf7f0bef631e",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "行，那收拾一下，我们出发。"
+            }
+          ]
+        },
+        {
+          "id": "ab182792-bc8a-4beb-9f7b-9667e9aa2a47",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "现在？"
+            }
+          ]
+        },
+        {
+          "id": "41f49886-c629-4d05-a12f-cea65e6389f3",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "不然呢？越早越好，药效不等人。"
+            }
+          ]
+        },
+        {
+          "id": "9bb81331-cf66-4723-863e-83a0cc01f650",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "等、等一下，我要换衣服。"
+            }
+          ]
+        },
+        {
+          "id": "19f1b0e6-1737-44bc-b708-15a8f6eadcaa",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你身上这身就挺好。"
+            }
+          ]
+        },
+        {
+          "id": "23126f9e-9c73-4717-9e97-57994b33ba76",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "太幼稚了！"
+            }
+          ]
+        },
+        {
+          "id": "60c4471c-061b-424e-9575-df2fb813b719",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你本来现在就很幼稚。"
+            }
+          ]
+        },
+        {
+          "id": "2c75feaa-1e1c-416b-9503-4e1191fae158",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你再说一句试试？"
+            }
+          ]
+        },
+        {
+          "id": "4a7b99c2-3d3c-4d0a-a4ed-592e53d12b1f",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他抄起靠垫要砸我，犹豫了一下又放下。"
+            }
+          ]
+        },
+        {
+          "id": "f264aa43-1634-46f2-a58a-ec924d30c49d",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "算了，正事要紧。"
+            }
+          ]
+        },
+        {
+          "id": "bc518524-dc3d-4498-9222-023b66eb4554",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他走到门口，又回头。"
+            }
+          ]
+        },
+        {
+          "id": "ce9d37a8-70bc-460d-9597-f81f97484c26",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "喂。"
+            }
+          ]
+        },
+        {
+          "id": "c32f7bd7-31e0-4eb4-b43a-3f10ec020aea",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "嗯？"
+            }
+          ]
+        },
+        {
+          "id": "b3186a67-c957-403e-8e85-907c67ddd3de",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我、我才不需要你帮忙。"
+            }
+          ]
+        },
+        {
+          "id": "68d8d2e0-b90a-41e6-96d8-6a4cd4a07f58",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他说这话时，手已经诚实地拽住了我衣角。"
+            }
+          ]
+        },
+        {
+          "id": "11f342e8-7dc9-4f07-bd48-2bdb4562412b",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "那你松开我衣服。"
+            }
+          ]
+        },
+        {
+          "id": "879e6309-6ba8-4518-92ba-2db3801156ad",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我、我这是怕你走丢。"
+            }
+          ]
+        },
+        {
+          "id": "32af380b-0650-4179-9dca-851b6f837baf",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我走不丢。"
+            }
+          ]
+        },
+        {
+          "id": "f3219770-5b3f-4f82-9b39-7cf9d8d9aba8",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你路痴！上次去超市都能迷路。"
+            }
+          ]
+        },
+        {
+          "id": "8e5a76ce-d906-4543-bb2c-5e72a5c7ae4e",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "……你记性倒挺好。"
+            }
+          ]
+        },
+        {
+          "id": "a348f38c-9632-46de-ab87-06e5297d0891",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "少废话，出发。"
+            }
+          ]
+        },
+        {
+          "id": "6b139384-4d02-4a91-9926-f3c7df0d6fbf",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "我们坐公交到了郊外，又走了一段荒路，远远看见废弃游乐园的大门，锈迹斑斑，上面的卡通雕塑掉漆严重，一只兔子头歪到一边。"
+            }
+          ]
+        },
+        {
+          "id": "fe4dc80c-ce7c-477f-b68f-dbeea6d739a3",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "到了。"
+            }
+          ]
+        },
+        {
+          "id": "705db5cc-8b21-4039-8b8f-c61af2f624e3",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "这地方晚上能拍恐怖片。"
+            }
+          ]
+        },
+        {
+          "id": "10d7bf19-06c5-4993-af20-d3c6ef494641",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你怕了？"
+            }
+          ]
+        },
+        {
+          "id": "de0fc7e5-31dd-44fd-876d-a6b90baa3167",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "说了没有！"
+            }
+          ]
+        },
+        {
+          "id": "7469be42-7a4f-49af-8fc4-929fc05c1b87",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他拽着我衣角的手明显收紧了。我们翻过低矮的围墙，游乐园里杂草丛生，旋转木马只剩骨架，摩天轮歪斜地立着，风吹过发出吱呀声。"
+            }
+          ]
+        },
+        {
+          "id": "ee529dca-3360-415c-8968-0602aabfe324",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "迷宫在哪儿？"
+            }
+          ]
+        },
+        {
+          "id": "f7bb279a-6ee2-4aaa-b1dc-39aaee316510",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "地图说在最深处，镜之迷宫是个独立建筑。"
+            }
+          ]
+        },
+        {
+          "id": "5d0f5775-1183-4f8a-be3f-8197b0bd8418",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "感觉像陷阱。"
+            }
+          ]
+        },
+        {
+          "id": "5d50cbe7-73ac-437c-a78f-1275461693c1",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "那也得去。"
+            }
+          ]
+        },
+        {
+          "id": "92c9e8b1-16fe-4fc5-afd4-d73e4043b974",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "我们穿过鬼屋，科明全程贴着我走，眼睛却故意看向别处。"
+            }
+          ]
+        },
+        {
+          "id": "81e97ab4-fb98-48cf-8455-c0a679691b24",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我、我只是走得快，不是害怕。"
+            }
+          ]
+        },
+        {
+          "id": "758dde0f-0673-4d9f-b058-91dc795c17e8",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "没说你害怕。"
+            }
+          ]
+        },
+        {
+          "id": "59213e4f-02c3-4b90-abac-9788204c8653",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你心里肯定在笑我。"
+            }
+          ]
+        },
+        {
+          "id": "5e9b0535-7f98-4e3a-a80b-297f6a2792c9",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "没有。"
+            }
+          ]
+        },
+        {
+          "id": "51341e34-582f-4f92-93c3-3b66a028ef5f",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你就有。"
+            }
+          ]
+        },
+        {
+          "id": "678aa04f-e9f5-489c-97f3-ed3622e8f7e5",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "走到鬼屋出口时，一个破旧的骷髅模型突然从天花板掉下来，科明“啊”地叫了一声，整个人跳到我身上。"
+            }
+          ]
+        },
+        {
+          "id": "c2817542-4eed-4e06-a44e-419c5d3b1f60",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "还说没怕？"
+            }
+          ]
+        },
+        {
+          "id": "0720368b-040a-4160-a468-46b9d6d68743",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "这、这是条件反射！"
+            }
+          ]
+        },
+        {
+          "id": "10c15d96-8e23-41be-84e6-a68938baa8be",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他像八爪鱼一样挂在我身上，我费了好大劲才把他扒下来。"
+            }
+          ]
+        },
+        {
+          "id": "4b0f57e3-ef32-4c02-aab9-d87045fce3b0",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "放我下来！"
+            }
+          ]
+        },
+        {
+          "id": "0031a0e6-baa2-4966-9e30-8864a2e2bef0",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "好。"
+            }
+          ]
+        },
+        {
+          "id": "de4dac73-76ac-4be4-bdc4-dc4e5d487cb2",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "我松开手，他直接摔在草地上。"
+            }
+          ]
+        },
+        {
+          "id": "94445bd5-31c4-4db6-b95e-aea58afad52e",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你、你摔我！"
+            }
+          ]
+        },
+        {
+          "id": "852a066c-44c9-45d6-8543-4b4a7e8b6a6b",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "是你自己松手。"
+            }
+          ]
+        },
+        {
+          "id": "7f803005-6210-46c0-a084-1a7758a771a3",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我那是没抓稳！"
+            }
+          ]
+        },
+        {
+          "id": "051559e3-79bb-4296-9124-df2aafe3b6bb",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他爬起来拍拍土，耳朵尖还是红的。我们继续往前走，终于看到一座用巨大镜子拼成的建筑，入口像一张嘴，里面黑漆漆的。"
+            }
+          ]
+        },
+        {
+          "id": "5632a5e1-1fdc-4422-859f-905eac3b3fce",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "到了。"
+            }
+          ]
+        },
+        {
+          "id": "673a35fd-970e-4812-b158-a3317b5d3ec7",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "这……这就是镜之迷宫？"
+            }
+          ]
+        },
+        {
+          "id": "10463dbe-d384-4378-9f2a-cefdc77a985a",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "嗯，准备好进去了吗？"
+            }
+          ]
+        },
+        {
+          "id": "c92e711f-015f-4b0f-acce-46d166796e51",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "等、等一下。"
+            }
+          ]
+        },
+        {
+          "id": "d8743fa2-a14e-4c59-8ebc-bb3d6cbe3928",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他深吸一口气，松开我衣角，低头整理了下衣服，又抬头看我。"
+            }
+          ]
+        },
+        {
+          "id": "3cc746a1-70a9-471b-8c1c-a701c9d6fddf",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你确定要和我一起进去？"
+            }
+          ]
+        },
+        {
+          "id": "e4d39600-e6d0-439b-a36f-0491aff3eeaa",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "废话。"
+            }
+          ]
+        },
+        {
+          "id": "63ad648d-9d58-4c12-b663-ab8bf20acd6b",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "里面可能有危险。"
+            }
+          ]
+        },
+        {
+          "id": "5e7f4bd8-a372-4d34-b00d-0015411adbe7",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "那我就更不能让你一个人进去了。"
+            }
+          ]
+        },
+        {
+          "id": "a3ed44a8-eaaf-459e-803b-8b4a6a4545fb",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你……你会拖我后腿。"
+            }
+          ]
+        },
+        {
+          "id": "d278f7ae-e523-4026-84a9-84a26f401391",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你现在这体格，谁拖谁后腿还不一定。"
+            }
+          ]
+        },
+        {
+          "id": "29dcc752-a66b-4f1a-8f24-0782d93d07fa",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你、你瞧不起我！"
+            }
+          ]
+        },
+        {
+          "id": "84f72796-022f-4155-8390-80dacd13e567",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他气鼓鼓地跺脚，然后转身朝入口走去。"
+            }
+          ]
+        },
+        {
+          "id": "00033c5c-32db-4d55-9ecf-b777c36ff0da",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "走！谁怕谁！"
+            }
+          ]
+        },
+        {
+          "id": "b3ccb7ef-214b-486f-afab-4dc417058a3e",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "我们刚踏进入口，身后就传来镜子合上的声音。眼前是一条走廊，两侧全是镜子，映出无数个我们。"
+            }
+          ]
+        },
+        {
+          "id": "dc4b6091-8724-4ad4-acbb-4ccff6a15908",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "跟紧我。"
+            }
+          ]
+        },
+        {
+          "id": "1eccc6e2-97b3-4dc2-ba3d-af46135b6133",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "知、知道了。"
+            }
+          ]
+        },
+        {
+          "id": "502f7f9b-1055-4f50-bdcf-6818f2d80140",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "走了没几步，走廊尽头出现一扇门，门上刻着一行字：“说出你此刻最真实的恐惧。”"
+            }
+          ]
+        },
+        {
+          "id": "bdf07e41-117c-410d-a2db-cedf74934c27",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "这什么鬼？"
+            }
+          ]
+        },
+        {
+          "id": "33b9b79d-dfe7-4430-bc1e-501db1ab1a04",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "看来必须说实话才能开门。"
+            }
+          ]
+        },
+        {
+          "id": "59c26d2f-48db-410a-b578-76f853882eaf",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我、我没什么恐惧的。"
+            }
+          ]
+        },
+        {
+          "id": "14f3bd77-a71a-49f2-b2bb-ccd03a4d7e60",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他说完，门纹丝不动，镜子里的我们却开始模糊。"
+            }
+          ]
+        },
+        {
+          "id": "422040d4-2b55-45d1-b1b5-2603db91c140",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你撒谎，门不开。"
+            }
+          ]
+        },
+        {
+          "id": "9f0bb24d-3ad0-4720-93db-c926fd0e2ba6",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我没撒谎！我、我就是不害怕！"
+            }
+          ]
+        },
+        {
+          "id": "c9568a57-d662-49b6-a7ac-521ac41ece67",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "话音刚落，他身体剧烈一颤，膝盖发软，差点跪下去。"
+            }
+          ]
+        },
+        {
+          "id": "f484e093-dcb8-44d5-8e63-58242d29c789",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "药水发作了！"
+            }
+          ]
+        },
+        {
+          "id": "1a63bd8f-9160-4601-b78e-c844e8b05317",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我……我……"
+            }
+          ]
+        },
+        {
+          "id": "e15a2f77-4355-4fa5-b452-8c663458e04a",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他攥着我衣袖，嘴唇哆嗦，终于喊出来。"
+            }
+          ]
+        },
+        {
+          "id": "b5c3cdb1-630e-4977-8e83-f52d63e014b2",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我害怕……我害怕再也变不回去！"
+            }
+          ]
+        },
+        {
+          "id": "ae425971-ddcf-402f-82f9-e5aeb8f8483f",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "门发出“咔嚓”一声，缓缓打开。科明愣在原地，脸涨得通红。"
+            }
+          ]
+        },
+        {
+          "id": "dc3d77fa-9104-4b9e-ab2d-8a5592071fb8",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "看吧，诚实点不就好了。"
+            }
+          ]
+        },
+        {
+          "id": "2c3a5656-b0a1-4d0e-8b35-ed76e00277dd",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你、你闭嘴！"
+            }
+          ]
+        },
+        {
+          "id": "afcb1fd1-969e-4dea-b03d-38f0b793c334",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "第二扇门出现，上面写着：“说出你此刻最渴望的东西。”"
+            }
+          ]
+        },
+        {
+          "id": "07aff6d0-e228-4266-b830-a3755653f613",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "又、又来？"
+            }
+          ]
+        },
+        {
+          "id": "9d15e6df-a734-442a-ac03-b60c28d8ab5a",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "这次我帮不了你，得你自己说。"
+            }
+          ]
+        },
+        {
+          "id": "a89b0c08-e80c-4469-a7f5-5d671af60474",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我渴望……变回原来的样子。"
+            }
+          ]
+        },
+        {
+          "id": "37e23606-bab5-47f6-a2e1-f668c4671e3d",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "门没开。"
+            }
+          ]
+        },
+        {
+          "id": "2bf855e3-71d7-48f8-87a0-d6db9411f227",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我渴望解药！"
+            }
+          ]
+        },
+        {
+          "id": "975468ec-14c5-4937-a112-5be7f10cd550",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "门还是没开。"
+            }
+          ]
+        },
+        {
+          "id": "cc570608-5e2a-4acc-b55a-690a573afd8d",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你确定这是你最渴望的？"
+            }
+          ]
+        },
+        {
+          "id": "36b32da9-29ac-407f-921a-47f02e26e828",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我……我不知道！"
+            }
+          ]
+        },
+        {
+          "id": "768d0072-f1e4-4af1-9001-c30ebc058f69",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他抱住头，蹲在地上。镜子里的倒影开始变成他原来的男性模样，但迅速破碎，又变回现在的萝莉形象，而且穿着那套洛丽塔裙，抱着玩偶。"
+            }
+          ]
+        },
+        {
+          "id": "cc1561ce-42d8-4897-a511-b274d041a939",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "那不是真的……"
+            }
+          ]
+        },
+        {
+          "id": "0095b662-0b57-4bc6-a387-6e872995907b",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "迷宫在逼你面对自己。"
+            }
+          ]
+        },
+        {
+          "id": "c78511b6-c4a4-4ef5-987b-49a37a9564c7",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我……我渴望……"
+            }
+          ]
+        },
+        {
+          "id": "77e9ab9a-7fd7-4458-a163-669488e12e20",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他抬起头，眼泪在眼眶里打转。"
+            }
+          ]
+        },
+        {
+          "id": "26198e39-e4dd-45a7-b30f-14b5ceb8b40c",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我渴望有人能让我不要一个人……"
+            }
+          ]
+        },
+        {
+          "id": "0ce6796e-a881-40ef-a92c-f86799f5bbd1",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "门开了。他站起来，不敢看我。"
+            }
+          ]
+        },
+        {
+          "id": "122c4722-1364-41a6-80bd-7e6c63fd2b5f",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "快、快走，别耽误时间。"
+            }
+          ]
+        },
+        {
+          "id": "b45c56e1-94e6-47d9-bc01-68b2884eac93",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "第三扇门写着：“说出你最不想承认的事实。”"
+            }
+          ]
+        },
+        {
+          "id": "01983cd6-eb61-424d-8662-fd3f26e4e00a",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "这题超纲了吧。"
+            }
+          ]
+        },
+        {
+          "id": "ecec81a2-1197-4584-9bd3-5edb3d5ad755",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我不想承认……我其实……"
+            }
+          ]
+        },
+        {
+          "id": "28750e01-3146-46ef-845f-68f4f72b87ff",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他张了张嘴，没发出声。门没反应。"
+            }
+          ]
+        },
+        {
+          "id": "c2178d3c-f8ae-4b8e-a224-31f8bc5dfc49",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "想想你有什么一直瞒着我的。"
+            }
+          ]
+        },
+        {
+          "id": "c0cb0dc3-6bdc-48ae-9c7a-6e4c2a95bede",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我、我没有瞒你的事。"
+            }
+          ]
+        },
+        {
+          "id": "24f48898-87c2-47cc-829d-9c75d23c6282",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他刚说完，药水又发作，疼得他倒抽冷气。"
+            }
+          ]
+        },
+        {
+          "id": "78b289a6-e96f-4349-91cf-999d52373bcb",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "有……有……"
+            }
+          ]
+        },
+        {
+          "id": "405e327b-0d3f-460d-91d1-10d8d34b8581",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "说吧，我又不会笑你。"
+            }
+          ]
+        },
+        {
+          "id": "cd670522-1ee4-4514-8e36-f5f43bbad18a",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你肯定会笑！"
+            }
+          ]
+        },
+        {
+          "id": "dc8a9913-fe70-4d58-89b0-b7eb4840dcfc",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我保证不笑。"
+            }
+          ]
+        },
+        {
+          "id": "1744dd7a-147c-4f6c-89cc-79eca73d2245",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "科明深吸一口气，闭上眼睛。"
+            }
+          ]
+        },
+        {
+          "id": "3e91219d-ff92-487a-9d57-812147b74599",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我……我不想变回去。"
+            }
+          ]
+        },
+        {
+          "id": "6c2e8602-52cd-4b87-8f3b-c8ef15b9c413",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "我愣住了。"
+            }
+          ]
+        },
+        {
+          "id": "aa6ed753-aee0-4300-8921-b4b38f55f35f",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "因为……变回去以后，你就不会像现在这样照顾我了……"
+            }
+          ]
+        },
+        {
+          "id": "48f38c74-3cd7-40ae-b0f0-e482c30d45e2",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他说完，门“轰”地打开，比前两次都快。科明飞快地跑进去，不给我追上的机会。"
+            }
+          ]
+        },
+        {
+          "id": "8b02a2ba-33e5-48f1-9b69-86f8e175827f",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "科明！"
+            }
+          ]
+        },
+        {
+          "id": "0a2f4906-c103-4140-af58-e494fb5b375f",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "别跟过来！"
+            }
+          ]
+        },
+        {
+          "id": "5a78d132-1aba-4c6f-a257-fb9a7696c913",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他跑进了下一个房间，我追过去时，发现他站在一面巨大的落地镜前。镜子里映出的不是现在的他，而是他内心真实的模样：一个穿着黑色洛丽塔裙、抱着兔子玩偶、扎着双马尾的傲娇萝莉，眼神里带着羞怒和委屈。"
+            }
+          ]
+        },
+        {
+          "id": "47826912-ba97-4abf-9b98-ddf948dad6c4",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "这……这是什么！"
+            }
+          ]
+        },
+        {
+          "id": "19575218-b4fa-4380-85e9-a1081b870698",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "这是迷宫映射的你内心形象。"
+            }
+          ]
+        },
+        {
+          "id": "055acb75-584c-4840-bf46-6f2f98bd6ef1",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我才不是这样！"
+            }
+          ]
+        },
+        {
+          "id": "a19d06a1-0421-4197-92a4-e99efcc62c3c",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他举起拳头，狠狠砸向镜面。镜子应声碎裂，无数碎片飞溅。"
+            }
+          ]
+        },
+        {
+          "id": "90ee1b7b-85ad-4c31-93e2-9b560a180b8b",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "小心！"
+            }
+          ]
+        },
+        {
+          "id": "c159d8a1-a0ed-498f-9e95-b7641c1d81d6",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "我扑过去把他护在身后，碎片划破了我手臂。"
+            }
+          ]
+        },
+        {
+          "id": "174e2914-1c10-4d5d-8e37-c28f836b4586",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你、你受伤了！"
+            }
+          ]
+        },
+        {
+          "id": "d179d23a-a60e-4d47-a499-ed11b4c1416d",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "没事，擦破点皮。"
+            }
+          ]
+        },
+        {
+          "id": "72d9a9a0-d3e8-4080-a91a-2313ce43e68f",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "都怪我……"
+            }
+          ]
+        },
+        {
+          "id": "68a13ffe-dc45-4f40-9fd6-60f58a80a268",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "别说了，迷宫还没走完。"
+            }
+          ]
+        },
+        {
+          "id": "28b34203-7a45-4bd3-abf7-d539c78d20e3",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "我们穿过镜面破碎的房间，来到一个宽阔的大厅。大厅中央站着一个高大的人影，渐渐凝实——那是科明原来的男性形象，但比他本人高出一个头，肌肉发达，穿着他平时最爱的黑色皮衣，脸上带着嘲弄的笑。"
+            }
+          ]
+        },
+        {
+          "id": "a63baaad-d19a-4b89-a217-f6fb317281f8",
+          "type": "dialogue",
+          "props": {
+            "characterId": "",
+            "characterName": "假面小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "哟，这不是我懦弱的另一面吗？"
+            }
+          ]
+        },
+        {
+          "id": "f8e2edaa-2f34-4acf-9d99-d86572e0b8bc",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你、你是谁？"
+            }
+          ]
+        },
+        {
+          "id": "ab91a725-4bc4-45c5-9c7e-9d1507d1327e",
+          "type": "dialogue",
+          "props": {
+            "characterId": "",
+            "characterName": "假面小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我就是你，你一直想成为的那个“完美兄贵”。"
+            }
+          ]
+        },
+        {
+          "id": "acb14548-0681-4903-961b-fb2120dded92",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我才没有想成为你这种怪物！"
+            }
+          ]
+        },
+        {
+          "id": "4c196bc1-47c7-4120-8701-74358c594118",
+          "type": "dialogue",
+          "props": {
+            "characterId": "",
+            "characterName": "假面小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你从小就喜欢装酷，装硬汉，不就是想变成这样吗？"
+            }
+          ]
+        },
+        {
+          "id": "bad2b488-5495-4949-adee-b0033c6d48e3",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "假面科明走过来，每一步都让地面震颤。他俯视着科明，像看一只虫子。"
+            }
+          ]
+        },
+        {
+          "id": "bfc48e91-2701-4484-ab39-dacdf11d0352",
+          "type": "dialogue",
+          "props": {
+            "characterId": "",
+            "characterName": "假面小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "但你看看你现在的样子，一个小矮子，穿女装，还乐在其中。"
+            }
+          ]
+        },
+        {
+          "id": "e73a3246-e380-4a54-a5ef-4cb126962aa1",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我没有！"
+            }
+          ]
+        },
+        {
+          "id": "3e1d1f4d-8d0a-4236-a677-a993cafabe38",
+          "type": "dialogue",
+          "props": {
+            "characterId": "",
+            "characterName": "假面小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你刚才在门口说的话，我都听见了。你不想变回去，因为你享受被男人照顾的感觉。"
+            }
+          ]
+        },
+        {
+          "id": "6e7f7f8a-5c5d-48cf-9b88-bebea9266e0a",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "闭嘴！"
+            }
+          ]
+        },
+        {
+          "id": "d2aa225f-8496-4fb3-acbb-39c8b1bb1923",
+          "type": "dialogue",
+          "props": {
+            "characterId": "",
+            "characterName": "假面小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你根本不想变回去，你只是嘴上说着要解药，其实心里巴不得永远当个萝莉。"
+            }
+          ]
+        },
+        {
+          "id": "9eb7bf39-1359-4d7b-9b1d-f9bff0b69099",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "科明脸色惨白，一步步后退。"
+            }
+          ]
+        },
+        {
+          "id": "8842dbe6-368c-445e-a6ac-328717f0999d",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "科明，别听他的！"
+            }
+          ]
+        },
+        {
+          "id": "564d3d40-b155-4636-9269-993b3cd72bb3",
+          "type": "dialogue",
+          "props": {
+            "characterId": "",
+            "characterName": "假面小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "还有你，主角。你以为你是在帮他？你只是享受当英雄的感觉吧。"
+            }
+          ]
+        },
+        {
+          "id": "0925591b-c174-4516-a79e-d753fc134b89",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我享受你个头。"
+            }
+          ]
+        },
+        {
+          "id": "d96a51b4-4102-43ad-a4bb-0a8d69f2c009",
+          "type": "dialogue",
+          "props": {
+            "characterId": "",
+            "characterName": "假面小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你们都一样虚伪。"
+            }
+          ]
+        },
+        {
+          "id": "4d480024-6756-4a0c-a50a-103de5decfad",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "假面科明伸手抓向科明，我冲过去想挡，却被一股力量弹开。"
+            }
+          ]
+        },
+        {
+          "id": "6d73ae00-cd5e-4755-810c-847ab191d8ac",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "不要碰他！"
+            }
+          ]
+        },
+        {
+          "id": "5491a187-1b7e-43e7-b01c-be9714554a29",
+          "type": "dialogue",
+          "props": {
+            "characterId": "",
+            "characterName": "假面小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "怎么？戳中痛处了？你就是个不敢承认自己真实想法的胆小鬼。"
+            }
+          ]
+        },
+        {
+          "id": "91297a75-aef5-4b12-97b0-db6cd4273629",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我……"
+            }
+          ]
+        },
+        {
+          "id": "1717999f-79bf-4bbe-8a9f-de1da900c325",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "科明跪在地上，身体发抖。我爬起来，冲他喊。"
+            }
+          ]
+        },
+        {
+          "id": "0c218174-c531-4241-ba3b-5dc11b4f262a",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "科明！别被他影响了！你是什么样的人，你自己最清楚！"
+            }
+          ]
+        },
+        {
+          "id": "5f2db30c-ffe6-4089-aff4-11c9e4fab362",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我……我不知道。"
+            }
+          ]
+        },
+        {
+          "id": "836513f7-481e-4cce-a26d-f41c226095a0",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你听我说！你平时嘴硬、爱面子、动不动就炸毛，但你从来没在我面前装过什么硬汉。你就是你，哪怕变成萝莉，也是我认识的科明！"
+            }
+          ]
+        },
+        {
+          "id": "d974e05c-584d-46cf-b6e9-fa80afb30580",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "可是……他说的有些话……没错。"
+            }
+          ]
+        },
+        {
+          "id": "14439b66-06c4-4d59-b62b-9d7030cfaf4c",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "哪句没错？你不想变回去？"
+            }
+          ]
+        },
+        {
+          "id": "7ba7747f-b625-424b-af74-ecd8d3b8c9ff",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我……"
+            }
+          ]
+        },
+        {
+          "id": "072bb078-bcbc-42b5-9b62-c7c8d3be2de2",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "如果你真的不想变回去，那也没什么。我答应过帮你找解药，就一定会帮到底。但如果你是因为喜欢现在这样，我也不会看不起你。"
+            }
+          ]
+        },
+        {
+          "id": "cf6808be-a1a5-4694-af17-d24b19f3fc6f",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你、你认真的？"
+            }
+          ]
+        },
+        {
+          "id": "19aa1fef-15aa-42a2-8ccb-15cd6598e8cf",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我什么时候骗过你？"
+            }
+          ]
+        },
+        {
+          "id": "0a363774-9c85-408d-aa46-2e8d3f64c51e",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "科明抬起头，眼泪止不住地流下来。他慢慢站起来，走向假面科明。"
+            }
+          ]
+        },
+        {
+          "id": "c6b1a112-dd7c-40fd-af28-8c205b02c2ef",
+          "type": "dialogue",
+          "props": {
+            "characterId": "",
+            "characterName": "假面小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "怎么？终于要认输了？"
+            }
+          ]
+        },
+        {
+          "id": "a0db9de5-fd01-45c7-b7c4-6bc87831fa1a",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "不。"
+            }
+          ]
+        },
+        {
+          "id": "71379c6c-df47-4f01-ace6-f73de3b83046",
+          "type": "dialogue",
+          "props": {
+            "characterId": "",
+            "characterName": "假面小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "哦？"
+            }
+          ]
+        },
+        {
+          "id": "405e9f89-bca8-440b-9b89-92aa86e87b0d",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我承认……我确实不想变回去。"
+            }
+          ]
+        },
+        {
+          "id": "cca5c3bc-77ec-4d41-9d2d-69265ace931e",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他深吸一口气，用尽全身力气喊出来。"
+            }
+          ]
+        },
+        {
+          "id": "169a881a-0e98-40d9-8faa-06f8e2b54ec4",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "对！我就是想当个坦率的萝莉！不行吗！"
+            }
+          ]
+        },
+        {
+          "id": "75a43c2b-0794-43f5-8385-fb8ec0edf2c2",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "话音落下的瞬间，整个大厅的镜子同时亮起刺眼的光。假面科明发出痛苦的咆哮，身体开始龟裂。"
+            }
+          ]
+        },
+        {
+          "id": "6075ad4c-aac0-45b9-a027-d3c967789064",
+          "type": "dialogue",
+          "props": {
+            "characterId": "",
+            "characterName": "假面小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你、你会后悔的——！"
+            }
+          ]
+        },
+        {
+          "id": "c0d9840f-54ba-4258-b5b6-ed8a9e93fb17",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我科明做事，从来不后悔！"
+            }
+          ]
+        },
+        {
+          "id": "5b7c14a1-e14c-4efc-b510-7c9becae2ea0",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "假面科明在一片光芒中碎裂成无数碎片，像雨一样落下来。大厅中央出现了一块漂浮的水晶，散发着柔和的粉色光芒。"
+            }
+          ]
+        },
+        {
+          "id": "3fe5c184-d707-4289-b60c-8653d7300375",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "是真心水晶！"
+            }
+          ]
+        },
+        {
+          "id": "8d069b8a-9362-4f6e-a16d-5a5e5399e0ee",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我们……成功了？"
+            }
+          ]
+        },
+        {
+          "id": "f3b0c803-f72a-436e-88d2-eb2902116dbc",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他话音刚落，整个迷宫开始剧烈震动，墙壁上的镜子纷纷炸裂。"
+            }
+          ]
+        },
+        {
+          "id": "2e4841d2-6e65-469b-8916-edb2831af308",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "糟了，迷宫要塌了！"
+            }
+          ]
+        },
+        {
+          "id": "7fd0d518-ce99-4ae8-9e12-ff917caf16a1",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "快走！"
+            }
+          ]
+        },
+        {
+          "id": "2c63957a-5385-4216-b692-82074d273e63",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "科明抓住我的手，往出口方向跑。一块巨大的镜面从天花板掉下来，眼看要砸中我，科明猛地把我推开。"
+            }
+          ]
+        },
+        {
+          "id": "ef4249e1-5127-4018-b561-ec2a66396471",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "科明！"
+            }
+          ]
+        },
+        {
+          "id": "228d67ca-e3dd-4c2c-9cbe-bc7797f13c15",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "镜面砸在他右腿上，他闷哼一声，摔倒在地。"
+            }
+          ]
+        },
+        {
+          "id": "6e891418-f933-4568-959b-54bb5f4f291e",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "别管我！去拿水晶！"
+            }
+          ]
+        },
+        {
+          "id": "933a5d0e-d545-4313-bb2a-2207fe59c286",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你疯了！"
+            }
+          ]
+        },
+        {
+          "id": "12d42e41-f810-4afd-90ab-a623491fc240",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "我冲回去，一把抱起他。他轻得不可思议，我把他夹在腋下，另一手抓住水晶，拼命往外跑。"
+            }
+          ]
+        },
+        {
+          "id": "85170ea6-7d86-4d72-bad9-5cc54cb876cb",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "放我下来！"
+            }
+          ]
+        },
+        {
+          "id": "fe074192-4e77-4427-a010-f89273a5dcd0",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "闭嘴！"
+            }
+          ]
+        },
+        {
+          "id": "47e8d246-bb43-4802-a4ef-9c28b9a72578",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "我一路狂奔，身后是不断崩塌的迷宫和飞溅的玻璃。冲出出口的瞬间，整座建筑轰然倒塌，扬起漫天尘土。"
+            }
+          ]
+        },
+        {
+          "id": "6ca1f3cd-2616-46e2-b0e3-938b59255047",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "咳咳……你、你没事吧？"
+            }
+          ]
+        },
+        {
+          "id": "6ee1293c-7ff9-4a72-94c3-ad5e5ea6ecd0",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你才有事！"
+            }
+          ]
+        },
+        {
+          "id": "e1015bd6-d310-4986-a8e2-0c94c9492559",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "我把科明放下来，检查他的右腿。小腿上划开一道长口子，血流不止。"
+            }
+          ]
+        },
+        {
+          "id": "e7af12a9-dabf-4d7f-a21c-c2fcfe949f21",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "没事，皮外伤。"
+            }
+          ]
+        },
+        {
+          "id": "1996b220-5478-4623-b571-e5cfb39470fc",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你刚才想死是不是？"
+            }
+          ]
+        },
+        {
+          "id": "c9373438-aea3-4321-85ec-1e09d1256d75",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我、我下意识的……"
+            }
+          ]
+        },
+        {
+          "id": "7df4d397-f2f9-4914-afb5-abce5aaeae63",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "下次不准这样。"
+            }
+          ]
+        },
+        {
+          "id": "39f86fa7-e72f-4555-ae74-51bd8f92a050",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你、你凶什么！"
+            }
+          ]
+        },
+        {
+          "id": "3eb62b3c-a74a-4a14-abd2-af07acf7c75b",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他别过头去，却偷偷擦了下眼角。我把水晶拿出来，发现上面多了一道裂纹。"
+            }
+          ]
+        },
+        {
+          "id": "95a51151-0258-4f9d-ad8f-7bdba00a59d4",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "水晶裂了。"
+            }
+          ]
+        },
+        {
+          "id": "d1eb3d65-2458-4adb-9853-86a329d0426b",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "那、那还能用吗？"
+            }
+          ]
+        },
+        {
+          "id": "52f79097-ec94-4557-83f3-f4bf156b0d6a",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "我把水晶对着光看了看，里面流动的光芒微弱了很多。"
+            }
+          ]
+        },
+        {
+          "id": "32579963-5521-4998-a827-babf633c3364",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "说明书上说，裂纹水晶只能维持三天临时解药效果。"
+            }
+          ]
+        },
+        {
+          "id": "9429629d-444a-4cd0-875a-eafdc2e9a0aa",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "三天？"
+            }
+          ]
+        },
+        {
+          "id": "b2338301-e123-43e7-9313-6949c5d7631d",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "三天后，你会再次变回萝莉，而且人格幼化可能加速。"
+            }
+          ]
+        },
+        {
+          "id": "564d1222-5ecb-4409-9898-03e037607c4c",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "……"
+            }
+          ]
+        },
+        {
+          "id": "6e54bb42-d1ef-44f3-9e90-8b17cee3d1c5",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他沉默了一会儿，突然笑了。"
+            }
+          ]
+        },
+        {
+          "id": "774ebb0d-58a9-4fc5-8d3f-7d02141f2b30",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "所以，我只有三天时间当回男人，然后就要当一辈子萝莉？"
+            }
+          ]
+        },
+        {
+          "id": "5ed4d38e-5b95-45b5-abab-637be0299e5e",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "对不起。"
+            }
+          ]
+        },
+        {
+          "id": "0918ebb2-2f6b-41a6-b2ec-2100b20e6612",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你道什么歉，又不是你的错。"
+            }
+          ]
+        },
+        {
+          "id": "0eafff61-d137-46c8-bd97-0a0179c535b1",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "如果我再小心一点……"
+            }
+          ]
+        },
+        {
+          "id": "59dc5733-49ad-4b07-a427-7e7015347b49",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "别说了。"
+            }
+          ]
+        },
+        {
+          "id": "932ab8bb-40d0-4393-9038-4d6489ba0d80",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "他抬起头，对我露出一个极其别扭的笑容。"
+            }
+          ]
+        },
+        {
+          "id": "114cbd89-8e38-451a-9b80-c2b43b72c56f",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "三天就三天，总比没有好。"
+            }
+          ]
+        },
+        {
+          "id": "5dac1d68-7efe-4ea3-9d36-0c99618c7527",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你腿还在流血，我先帮你处理。"
+            }
+          ]
+        },
+        {
+          "id": "c3624357-bace-4801-94a2-6ab88d9b993e",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "我撕下自己的衬衫下摆，简单包扎了他的伤口。科明疼得龇牙，但硬是没叫出声。"
+            }
+          ]
+        },
+        {
+          "id": "0ca33456-3902-4869-a669-9ce181a90bac",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "轻点……"
+            }
+          ]
+        },
+        {
+          "id": "8b598aea-28f9-4294-9e6a-986ddc1f525f",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你刚才不是挺英雄的吗？"
+            }
+          ]
+        },
+        {
+          "id": "2c9bd742-172a-4398-a859-4cc4a909b420",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "刚才是刚才！"
+            }
+          ]
+        },
+        {
+          "id": "df27dc6a-0c30-4453-9e33-8421e5ca2fca",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "包扎完，我背起科明，往游乐园外面走。他趴在我背上，难得安静下来。"
+            }
+          ]
+        },
+        {
+          "id": "d260b269-7ac7-46a8-9f65-da01b94aac43",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "喂。"
+            }
+          ]
+        },
+        {
+          "id": "c5113b50-f45b-48ac-a51a-e6269f542567",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "嗯？"
+            }
+          ]
+        },
+        {
+          "id": "e633deaf-dd94-46e0-874a-b5ed7973b14c",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "刚才我在迷宫里说的那些话……你都听见了？"
+            }
+          ]
+        },
+        {
+          "id": "2cce9ad8-1bd5-4e6e-b186-32c722291384",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "听见了。"
+            }
+          ]
+        },
+        {
+          "id": "05b2d223-6b4d-474c-9c0f-c9c21d133c3f",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "忘掉！"
+            }
+          ]
+        },
+        {
+          "id": "6aff5de6-86aa-449c-947e-c3bfebbf078d",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "忘不掉。"
+            }
+          ]
+        },
+        {
+          "id": "75ce0340-11f6-45b3-bd9d-0242b74a533e",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你、你敢记着我就杀了你！"
+            }
+          ]
+        },
+        {
+          "id": "f45106bd-a0cc-47e2-be6c-c3c2b511f1cc",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你现在这样能杀谁？"
+            }
+          ]
+        },
+        {
+          "id": "353dcef1-789f-446c-a0b9-6adf7bcd97cb",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "等我变回男人，第一个杀你灭口。"
+            }
+          ]
+        },
+        {
+          "id": "072b5795-942a-4cd1-8bb9-23215145f8cc",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "行，我等着。"
+            }
+          ]
+        },
+        {
+          "id": "8cf3a819-5bf2-41a8-a6c6-f31488a556d7",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "科明把脸埋进我肩膀，闷闷地骂了一句。"
+            }
+          ]
+        },
+        {
+          "id": "4bec891f-c6b5-4192-822b-6255e41e5b8c",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "混蛋……"
+            }
+          ]
+        },
+        {
+          "id": "571cb28c-e30b-420d-9f3d-dc9d3fff7711",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "夕阳西下，我背着他走了很远。他渐渐不再说话，呼吸平稳，像是睡着了。我侧头看了一眼，发现他脸上还挂着泪痕，但嘴角微微翘着。"
+            }
+          ]
+        },
+        {
+          "id": "aca9a2e9-1a7f-4d05-921d-7ccc9308d4e6",
+          "type": "dialogue",
+          "props": {
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "（小声）坦率的萝莉，也不错。"
+            }
+          ]
+        },
+        {
+          "id": "53f3d949-9918-49c8-b211-6a00936004d3",
+          "type": "dialogue",
+          "props": {
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "expression": "",
+            "position": "",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "nameVariantId": "",
+            "prevNameVariantId": "",
+            "dialoguePortraitOnly": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "（梦话）才……才不是……"
+            }
+          ]
+        },
+        {
+          "id": "0441e4d8-fc1e-4f60-a038-a1a7d8d7a6b3",
+          "type": "narration",
+          "content": [
+            {
+              "type": "text",
+              "text": "我笑了笑，背着他继续往家走。水晶在我口袋里轻轻发烫，像在提醒我，三天后一切又将天翻地覆。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
