@@ -51,9 +51,7 @@
     "第2章",
     "第3章",
     "第4章",
-    "结局一：HE",
-    "结局二：BE",
-    "结局三：NE",
+    "结局选择间章",
     "章节前处理"
   ],
   "chapterFolders": [],
@@ -80,21 +78,13 @@
     },
     {
       "type": "chapter",
-      "id": "ch-1788685094506-7"
-    },
-    {
-      "type": "chapter",
-      "id": "ch-1788685785435-9"
-    },
-    {
-      "type": "chapter",
-      "id": "ch-1788685815379-12"
+      "id": "ch-1788689574055-13"
     }
   ],
-  "scheduleMode": "advanced",
+  "scheduleMode": "basic",
   "schedule": {
     "id": "root",
-    "entryChapterCount": 5,
+    "entryChapterCount": 6,
     "strategy": {
       "type": "extension",
       "target": ""

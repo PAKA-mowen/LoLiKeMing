@@ -3958,17 +3958,6 @@
           }
         },
         {
-          "id": "8a6a0652-ccef-4691-8da4-cc5691a77e42",
-          "type": "destroyScene",
-          "props": {
-            "disabled": false,
-            "sceneId": "all",
-            "sceneName": "",
-            "animated": "true",
-            "waitForComplete": "false"
-          }
-        },
-        {
           "id": "d8b880f5-c13d-4088-b57a-ea8cc9dce7a2",
           "type": "resetCamera",
           "props": {
@@ -3977,19 +3966,6 @@
             "duration": "500",
             "easing": "easeInOut",
             "waitForComplete": "true"
-          }
-        },
-        {
-          "id": "fbd74e28-9a69-437a-86eb-390b39e7b274",
-          "type": "curtain",
-          "props": {
-            "disabled": false,
-            "op": "close",
-            "effect": "",
-            "duration": "1000",
-            "color": "#000000",
-            "mode": "full-screen",
-            "curtainSize": "100"
           }
         }
       ]
