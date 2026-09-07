@@ -1,0 +1,32 @@
+{
+  "formatVersion": 1,
+  "id": "project-data",
+  "name": "项目数据",
+  "collections": [
+    {
+      "id": "local-mtrb8921",
+      "name": "新数据表",
+      "contract": {
+        "id": "project.local-mtrb8921",
+        "version": "1.0.0"
+      },
+      "runtimePolicy": "readonly",
+      "schema": {
+        "type": "object",
+        "columns": [
+          {
+            "key": "name",
+            "label": "名称",
+            "type": "text"
+          }
+        ],
+        "titleColumn": "name",
+        "additionalProperties": true
+      },
+      "createdAt": "2026-09-07T14:02:36.255Z",
+      "updatedAt": "2026-09-07T14:02:57.177Z"
+    }
+  ],
+  "createdAt": "2026-09-07T14:02:36.248Z",
+  "updatedAt": "2026-09-07T14:02:57.177Z"
+}

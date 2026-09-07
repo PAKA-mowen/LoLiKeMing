@@ -14270,6 +14270,19 @@
       "name": "结局三：NE",
       "blocks": [
         {
+          "id": "74c1a54b-58c3-4008-8a93-b1759df137d6",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "",
+            "uri": "bgm/天气之子 グランドエスケープ (Movie edit).mp3",
+            "volume": "100",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
           "id": "287cb44a-4a24-47f6-9694-e4d801affd83",
           "type": "narration",
           "props": {
@@ -15247,8 +15260,8 @@
             "prevNameVariantId": "",
             "showCharacter": true,
             "dialoguePortraitOnly": false,
-            "keepCharacter": true,
-            "keepDialogue": true,
+            "keepCharacter": false,
+            "keepDialogue": false,
             "voiceHash": "",
             "entryMotionPreset": "",
             "entryMotionDuration": 300,
@@ -15807,8 +15820,8 @@
             "prevNameVariantId": "",
             "showCharacter": true,
             "dialoguePortraitOnly": false,
-            "keepCharacter": true,
-            "keepDialogue": true,
+            "keepCharacter": false,
+            "keepDialogue": false,
             "voiceHash": "",
             "entryMotionPreset": "",
             "entryMotionDuration": 300,
@@ -22631,8 +22644,8 @@
             "prevNameVariantId": "",
             "showCharacter": true,
             "dialoguePortraitOnly": false,
-            "keepCharacter": true,
-            "keepDialogue": true,
+            "keepCharacter": false,
+            "keepDialogue": false,
             "voiceHash": "",
             "entryMotionPreset": "",
             "entryMotionDuration": 300,
@@ -22654,7 +22667,133 @@
           ]
         },
         {
-          "id": "7e7f2158-b614-4f69-b39e-810faac2ba35",
+          "id": "b1f54092-3853-482a-9a63-91184ac5254d",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "close",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
+        },
+        {
+          "id": "d6499298-6b8c-4c04-91ee-bf032e55edf9",
+          "type": "wait",
+          "props": {
+            "disabled": false,
+            "duration": 1000,
+            "waitForInput": false
+          }
+        },
+        {
+          "id": "6e3e31d5-3537-46d5-b63f-8245a1bcdc7e",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterTargetsJson": "[{\"id\":\"f5a5e950-4244-4116-a96e-fc60ccc05f74\",\"name\":\"我\"},{\"id\":\"dfb46bb6-c824-48dd-82de-77d71c8731a2\",\"name\":\"小小科明\"},{\"id\":\"5b61734e-b4c4-46af-a59f-68514a3e51a2\",\"name\":\"阿杰\"},{\"id\":\"14cb325c-3ec8-49b9-893c-19a68bc65e87\",\"name\":\"阿豪\"},{\"id\":\"2b8a9b91-6927-4514-bce0-57329608e58b\",\"name\":\"阿凯\"}]",
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "motionPreset": "",
+            "motionDuration": 300,
+            "motionIntensity": 1,
+            "motionDirection": "auto",
+            "motionWait": true
+          }
+        },
+        {
+          "id": "049d139a-fbe8-4d3c-8b61-83098ad917e9",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "open",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
+        },
+        {
+          "id": "077a5c8d-8e83-41e3-bdaa-feb21fe18e14",
+          "type": "wait",
+          "props": {
+            "disabled": false,
+            "duration": 1000,
+            "waitForInput": false
+          }
+        },
+        {
+          "id": "967c3739-48c7-471c-895b-27c288dd30a4",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "d3fdd3d3-accd-4a5b-ab6a-6585b027a1ac",
+            "sceneName": "结束",
+            "uri": "",
+            "autoAddToGallery": "true",
+            "galleryMethodTarget": "avg.internal.default-shell/add-to-gallery",
+            "transitionMode": "cover",
+            "transitionDuration": "500",
+            "transitionDirection": "",
+            "transitionStrips": "12",
+            "transitionRuleUri": "",
+            "transitionCenterX": "50",
+            "transitionCenterY": "50",
+            "transitionSoftness": "",
+            "transitionZoomScale": "1.14",
+            "transitionBlurStrength": "16",
+            "transitionMosaicSize": "52",
+            "transitionGlitchStrength": "100",
+            "transitionGlitchColorShift": "4.5",
+            "transitionGlitchScanlines": "17",
+            "transitionPagePerspective": "50",
+            "transitionPageShadow": "38",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "mouseParallaxEnabled": "false",
+            "mouseParallaxAmplitude": "4",
+            "mouseParallaxEdgeEase": "0",
+            "mouseParallaxReturnOnLeave": "true",
+            "mouseParallaxScaleMode": "auto",
+            "mouseParallaxScale": "1.08",
+            "displayType": "cover",
+            "position": "(center,center)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "103e30fb-6c58-4553-a2c1-7757b5223dfe",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "open",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
+        },
+        {
+          "id": "803b028b-c2b2-4303-8814-a993d467bba2",
+          "type": "particle",
+          "props": {
+            "disabled": false,
+            "mode": "show",
+            "effectId": "54d8d56c-457c-44e8-ad95-8fe74fe5c054",
+            "preset": "custom",
+            "textureUri": "particles/1788597891457.png",
+            "optionsJson": "{\"random_scale_possibility\":0.59,\"count\":250,\"depth_min\":0.5,\"depth_max\":100,\"randomVelocity\":{\"factor_rotation_x\":0.1,\"factor_rotation_y\":0.1,\"factor_rotation_z\":0},\"random_scale_min\":0.2,\"random_scale_max\":1.25,\"randomWalkSteps\":{\"step_z\":0.02},\"airResistance\":0.66}",
+            "fadeInDuration": "500",
+            "fadeOutDuration": "500"
+          }
+        },
+        {
+          "id": "448624ff-be77-46d9-98e8-1603d825e875",
           "type": "branch",
           "props": {
             "disabled": false,
@@ -22735,7 +22874,7 @@
           "type": "narration",
           "props": {
             "disabled": false,
-            "keepDialogue": true,
+            "keepDialogue": false,
             "voiceHash": ""
           },
           "content": [
