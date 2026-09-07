@@ -10427,6 +10427,22 @@
           }
         },
         {
+          "id": "497de160-4586-4261-8467-0153a969ab3c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "start",
+              "styles": {}
+            }
+          ]
+        },
+        {
           "id": "d6331188-2871-4e79-b7c0-cc51b51ed507",
           "type": "floatingText",
           "props": {
