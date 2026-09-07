@@ -120,6 +120,18 @@
           "distance": 1
         }
       ]
+    },
+    {
+      "id": "d3fdd3d3-accd-4a5b-ab6a-6585b027a1ac",
+      "name": "结束",
+      "layers": [
+        {
+          "id": "76d689a5-f1a7-469c-a495-8eac8b68855d",
+          "name": "结束",
+          "assetPath": "backgrounds/结束.png",
+          "distance": 1
+        }
+      ]
     }
   ]
 }

@@ -10142,7 +10142,7 @@
             "showCharacter": true,
             "dialoguePortraitOnly": false,
             "keepCharacter": true,
-            "keepDialogue": true,
+            "keepDialogue": false,
             "voiceHash": "",
             "entryMotionPreset": "",
             "entryMotionDuration": 300,
@@ -10168,7 +10168,7 @@
           "type": "narration",
           "props": {
             "disabled": false,
-            "keepDialogue": true,
+            "keepDialogue": false,
             "voiceHash": ""
           },
           "content": [
@@ -10178,6 +10178,178 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "dfe6eb03-0775-4276-9a33-aeec9a3837fa",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "close",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
+        },
+        {
+          "id": "9676b5be-178f-4a1e-aad3-9150713f500a",
+          "type": "wait",
+          "props": {
+            "disabled": false,
+            "duration": 1000,
+            "waitForInput": false
+          }
+        },
+        {
+          "id": "fcbbb6f1-c2e6-45e3-a42b-0287c2f61c56",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterTargetsJson": "[{\"id\":\"f5a5e950-4244-4116-a96e-fc60ccc05f74\",\"name\":\"我\"},{\"id\":\"dfb46bb6-c824-48dd-82de-77d71c8731a2\",\"name\":\"小小科明\"},{\"id\":\"5b61734e-b4c4-46af-a59f-68514a3e51a2\",\"name\":\"阿杰\"},{\"id\":\"14cb325c-3ec8-49b9-893c-19a68bc65e87\",\"name\":\"阿豪\"},{\"id\":\"2b8a9b91-6927-4514-bce0-57329608e58b\",\"name\":\"阿凯\"}]",
+            "characterId": "f5a5e950-4244-4116-a96e-fc60ccc05f74",
+            "characterName": "我",
+            "motionPreset": "",
+            "motionDuration": 300,
+            "motionIntensity": 1,
+            "motionDirection": "auto",
+            "motionWait": true
+          }
+        },
+        {
+          "id": "f49a1cc7-d094-49c3-843a-f5f8b1f35b98",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "open",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
+        },
+        {
+          "id": "e7df5f23-6889-4591-a685-c17a913034a5",
+          "type": "video",
+          "props": {
+            "disabled": false,
+            "videoId": "video",
+            "uri": "video/视频.mp4",
+            "loop": "false",
+            "muted": "false",
+            "alpha": "100",
+            "waitForFinished": "true",
+            "mode": "normal"
+          }
+        },
+        {
+          "id": "5e787ace-7774-49e8-8036-a6964998b0e5",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "close",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
+        },
+        {
+          "id": "128a51af-361c-44cf-bfcc-24b0b8753738",
+          "type": "wait",
+          "props": {
+            "disabled": false,
+            "duration": 1000,
+            "waitForInput": false
+          }
+        },
+        {
+          "id": "dd0f4827-45b1-44d2-9ff4-0e8a8d18dff4",
+          "type": "stopVideo",
+          "props": {
+            "disabled": false,
+            "videoId": "",
+            "fadeOutDuration": ""
+          }
+        },
+        {
+          "id": "035412d2-c056-4a6a-8cc9-328a616f5c32",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "d3fdd3d3-accd-4a5b-ab6a-6585b027a1ac",
+            "sceneName": "结束",
+            "uri": "",
+            "autoAddToGallery": "true",
+            "galleryMethodTarget": "avg.internal.default-shell/add-to-gallery",
+            "transitionMode": "cover",
+            "transitionDuration": "500",
+            "transitionDirection": "",
+            "transitionStrips": "12",
+            "transitionRuleUri": "",
+            "transitionCenterX": "50",
+            "transitionCenterY": "50",
+            "transitionSoftness": "",
+            "transitionZoomScale": "1.14",
+            "transitionBlurStrength": "16",
+            "transitionMosaicSize": "52",
+            "transitionGlitchStrength": "100",
+            "transitionGlitchColorShift": "4.5",
+            "transitionGlitchScanlines": "17",
+            "transitionPagePerspective": "50",
+            "transitionPageShadow": "38",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "mouseParallaxEnabled": "false",
+            "mouseParallaxAmplitude": "4",
+            "mouseParallaxEdgeEase": "0",
+            "mouseParallaxReturnOnLeave": "true",
+            "mouseParallaxScaleMode": "auto",
+            "mouseParallaxScale": "1.08",
+            "displayType": "cover",
+            "position": "(center,center)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "69c2a77d-3776-4958-8629-aac662aa9463",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "open",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
+        },
+        {
+          "id": "718f9254-424a-40fc-83e0-c1ffd07b77d3",
+          "type": "particle",
+          "props": {
+            "disabled": false,
+            "mode": "show",
+            "effectId": "54d8d56c-457c-44e8-ad95-8fe74fe5c054",
+            "preset": "custom",
+            "textureUri": "particles/1788597891457.png",
+            "optionsJson": "{\"random_scale_possibility\":0.59,\"count\":250,\"depth_min\":0.5,\"depth_max\":100,\"randomVelocity\":{\"factor_rotation_x\":0.1,\"factor_rotation_y\":0.1,\"factor_rotation_z\":0},\"random_scale_min\":0.2,\"random_scale_max\":1.25,\"randomWalkSteps\":{\"step_z\":0.02},\"airResistance\":0.66}",
+            "fadeInDuration": "500",
+            "fadeOutDuration": "500"
+          }
+        },
+        {
+          "id": "b7052dfe-ec0a-457b-a732-bcb3c28b5d3d",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "b432a857-fd06-4e9f-8d88-43fb89283081",
+            "title": "",
+            "choices": "[{\"mode\":\"jump\",\"text\":\"结语·致谢\",\"fragmentId\":\"frag-1788783480136-3\"},{\"mode\":\"jump\",\"text\":\"home\",\"fragmentId\":\"frag-1788783475947-2\"}]"
+          }
         }
       ]
     },
@@ -10207,6 +10379,387 @@
             "disabled": false,
             "keepDialogue": true,
             "voiceHash": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "frag-1788783475947-2",
+      "name": "home",
+      "blocks": [
+        {
+          "id": "0fd0735e-4a33-4694-8ef6-ac753910e8ee",
+          "type": "returnToEntry",
+          "props": {
+            "disabled": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "frag-1788783480136-3",
+      "name": "结语·致谢",
+      "blocks": [
+        {
+          "id": "a65ce6db-8db0-4872-a2e0-97cbd80afa2f",
+          "type": "destroyScene",
+          "props": {
+            "disabled": false,
+            "sceneId": "all",
+            "sceneName": "",
+            "animated": "true",
+            "waitForComplete": "false"
+          }
+        },
+        {
+          "id": "9784a1cb-5fb5-4312-9b3e-9b2b9dfdd7c3",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterTargetsJson": "",
+            "characterId": "",
+            "characterName": "",
+            "motionPreset": "",
+            "motionDuration": 300,
+            "motionIntensity": 1,
+            "motionDirection": "auto",
+            "motionWait": true
+          }
+        },
+        {
+          "id": "d6331188-2871-4e79-b7c0-cc51b51ed507",
+          "type": "floatingText",
+          "props": {
+            "disabled": false,
+            "floatingTextId": "",
+            "blocking": "true",
+            "recordHistory": "false",
+            "position": "(5.9%,6.9%)",
+            "anchor": "top-left",
+            "size": "",
+            "fontFamily": "'851Lakeus Night Writing', 'PingFang SC', sans-serif",
+            "fontSize": "200",
+            "color": "#ffb0b0ff",
+            "fontWeight": "normal",
+            "fontStyle": "normal",
+            "textAlign": "left",
+            "lineHeight": "",
+            "letterSpacing": "",
+            "textShadow": "",
+            "duration": "2000",
+            "infinite": "false",
+            "animIn": "fade",
+            "inDuration": "300",
+            "animOut": "fade",
+            "outDuration": "300",
+            "slideFrom": "top",
+            "slideDistance": "40",
+            "scaleFrom": "0.8",
+            "scaleTo": "0.8",
+            "blurRadius": "8"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "欸？好兄弟科明的\n真面目竟然是\n傲娇萝莉！",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c08cff8c-6843-40f2-9037-458af319eae5",
+          "type": "floatingText",
+          "props": {
+            "disabled": false,
+            "floatingTextId": "",
+            "blocking": "true",
+            "recordHistory": "false",
+            "position": "(8.7%,30.2%)",
+            "anchor": "top-left",
+            "size": "",
+            "fontFamily": "'851Lakeus Night Writing', 'PingFang SC', sans-serif",
+            "fontSize": "200",
+            "color": "#ffb0b0ff",
+            "fontWeight": "normal",
+            "fontStyle": "normal",
+            "textAlign": "left",
+            "lineHeight": "",
+            "letterSpacing": "",
+            "textShadow": "",
+            "duration": "2000",
+            "infinite": "false",
+            "animIn": "fade",
+            "inDuration": "300",
+            "animOut": "fade",
+            "outDuration": "300",
+            "slideFrom": "top",
+            "slideDistance": "40",
+            "scaleFrom": "0.8",
+            "scaleTo": "0.8",
+            "blurRadius": "8"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "制作人：墨问羊驼",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9996115e-5d4c-4713-aabc-bee2e7a72e9e",
+          "type": "floatingText",
+          "props": {
+            "disabled": false,
+            "floatingTextId": "",
+            "blocking": "true",
+            "recordHistory": "false",
+            "position": "(7.1%,26.6%)",
+            "anchor": "top-left",
+            "size": "",
+            "fontFamily": "'851Lakeus Night Writing', 'PingFang SC', sans-serif",
+            "fontSize": "200",
+            "color": "#ffb0b0ff",
+            "fontWeight": "normal",
+            "fontStyle": "normal",
+            "textAlign": "left",
+            "lineHeight": "",
+            "letterSpacing": "",
+            "textShadow": "",
+            "duration": "2000",
+            "infinite": "false",
+            "animIn": "fade",
+            "inDuration": "300",
+            "animOut": "fade",
+            "outDuration": "300",
+            "slideFrom": "top",
+            "slideDistance": "40",
+            "scaleFrom": "0.8",
+            "scaleTo": "0.8",
+            "blurRadius": "8"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "致我的好兄弟科明",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "223f60f4-4955-4aad-9e78-a0079a8e9388",
+          "type": "floatingText",
+          "props": {
+            "disabled": false,
+            "floatingTextId": "",
+            "blocking": "true",
+            "recordHistory": "false",
+            "position": "(11.6%,27.8%)",
+            "anchor": "top-left",
+            "size": "",
+            "fontFamily": "'851Lakeus Night Writing', 'PingFang SC', sans-serif",
+            "fontSize": "200",
+            "color": "#ffb0b0ff",
+            "fontWeight": "normal",
+            "fontStyle": "normal",
+            "textAlign": "left",
+            "lineHeight": "",
+            "letterSpacing": "",
+            "textShadow": "",
+            "duration": "2000",
+            "infinite": "false",
+            "animIn": "fade",
+            "inDuration": "300",
+            "animOut": "fade",
+            "outDuration": "300",
+            "slideFrom": "top",
+            "slideDistance": "40",
+            "scaleFrom": "0.8",
+            "scaleTo": "0.8",
+            "blurRadius": "8"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "也祝我的友友们",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a9805a03-ae9e-4996-87b2-a603b9e63d2f",
+          "type": "floatingText",
+          "props": {
+            "disabled": false,
+            "floatingTextId": "",
+            "blocking": "true",
+            "recordHistory": "false",
+            "position": "(18.7%,29.8%)",
+            "anchor": "top-left",
+            "size": "",
+            "fontFamily": "'851Lakeus Night Writing', 'PingFang SC', sans-serif",
+            "fontSize": "200",
+            "color": "#ffb0b0ff",
+            "fontWeight": "normal",
+            "fontStyle": "normal",
+            "textAlign": "left",
+            "lineHeight": "",
+            "letterSpacing": "",
+            "textShadow": "",
+            "duration": "2000",
+            "infinite": "false",
+            "animIn": "fade",
+            "inDuration": "300",
+            "animOut": "fade",
+            "outDuration": "300",
+            "slideFrom": "top",
+            "slideDistance": "40",
+            "scaleFrom": "0.8",
+            "scaleTo": "0.8",
+            "blurRadius": "8"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "和屏幕前的你",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e741a136-2f47-44ae-ab6f-c820b9754f50",
+          "type": "floatingText",
+          "props": {
+            "disabled": false,
+            "floatingTextId": "",
+            "blocking": "true",
+            "recordHistory": "false",
+            "position": "(30.9%,17.3%)",
+            "anchor": "top-left",
+            "size": "",
+            "fontFamily": "'851Lakeus Night Writing', 'PingFang SC', sans-serif",
+            "fontSize": "200",
+            "color": "#ffb0b0ff",
+            "fontWeight": "normal",
+            "fontStyle": "normal",
+            "textAlign": "left",
+            "lineHeight": "",
+            "letterSpacing": "",
+            "textShadow": "",
+            "duration": "2000",
+            "infinite": "false",
+            "animIn": "fade",
+            "inDuration": "300",
+            "animOut": "fade",
+            "outDuration": "300",
+            "slideFrom": "top",
+            "slideDistance": "40",
+            "scaleFrom": "0.8",
+            "scaleTo": "0.8",
+            "blurRadius": "8"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "天天开心\n万事顺遂",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "daa4674a-5a1a-4914-a44f-c78e0131e236",
+          "type": "floatingText",
+          "props": {
+            "disabled": false,
+            "floatingTextId": "",
+            "blocking": "true",
+            "recordHistory": "false",
+            "position": "(0.7%,29%)",
+            "anchor": "top-left",
+            "size": "",
+            "fontFamily": "'851Lakeus Night Writing', 'PingFang SC', sans-serif",
+            "fontSize": "200",
+            "color": "#ffb0b0ff",
+            "fontWeight": "normal",
+            "fontStyle": "normal",
+            "textAlign": "left",
+            "lineHeight": "",
+            "letterSpacing": "",
+            "textShadow": "",
+            "duration": "2000",
+            "infinite": "false",
+            "animIn": "fade",
+            "inDuration": "300",
+            "animOut": "fade",
+            "outDuration": "300",
+            "slideFrom": "top",
+            "slideDistance": "40",
+            "scaleFrom": "0.8",
+            "scaleTo": "0.8",
+            "blurRadius": "8"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "故事由真实事件改编",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3ace3fce-5e15-4568-ab3d-5e71506addca",
+          "type": "floatingText",
+          "props": {
+            "disabled": false,
+            "floatingTextId": "",
+            "blocking": "true",
+            "recordHistory": "false",
+            "position": "(34.3%,32.3%)",
+            "anchor": "top-left",
+            "size": "",
+            "fontFamily": "'851Lakeus Night Writing', 'PingFang SC', sans-serif",
+            "fontSize": "200",
+            "color": "#ffb0b0ff",
+            "fontWeight": "normal",
+            "fontStyle": "normal",
+            "textAlign": "left",
+            "lineHeight": "",
+            "letterSpacing": "",
+            "textShadow": "",
+            "duration": "2000",
+            "infinite": "false",
+            "animIn": "fade",
+            "inDuration": "300",
+            "animOut": "fade",
+            "outDuration": "300",
+            "slideFrom": "top",
+            "slideDistance": "40",
+            "scaleFrom": "0.8",
+            "scaleTo": "0.8",
+            "blurRadius": "8"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "感谢游玩",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "904bb836-723f-4d1a-b7ef-272634f236b5",
+          "type": "wait",
+          "props": {
+            "disabled": false,
+            "duration": 3000,
+            "waitForInput": false
+          }
+        },
+        {
+          "id": "2bb5330c-f64f-4b11-9208-c889992483be",
+          "type": "returnToEntry",
+          "props": {
+            "disabled": false
           }
         }
       ]
