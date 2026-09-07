@@ -36,6 +36,90 @@
           "distance": 1
         }
       ]
+    },
+    {
+      "id": "770cb538-73df-4a20-afe1-c27f8ab3126e",
+      "name": "CG:沙发",
+      "layers": [
+        {
+          "id": "226c5fd7-7750-4bbd-822c-75e4f901d409",
+          "name": "12c3b7499524d135d452fbffb0bf309d",
+          "assetPath": "backgrounds/12c3b7499524d135d452fbffb0bf309d.jpg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "fbcdef74-231c-48eb-b966-7ec75b8ec38f",
+      "name": "CG：买衣服",
+      "layers": [
+        {
+          "id": "97f3f372-8242-4fde-b052-c048906d3c4b",
+          "name": "42705e39de85ec975d9f9117188b3776",
+          "assetPath": "backgrounds/42705e39de85ec975d9f9117188b3776.jpg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "29c5a683-d6ce-4e5d-b608-1ad394625f43",
+      "name": "客厅",
+      "layers": [
+        {
+          "id": "763d70ad-302f-4582-ba6a-29dab015b1c3",
+          "name": "场景_客厅",
+          "assetPath": "backgrounds/场景_客厅.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "0e991b72-5600-4376-938f-f4b6e41003ed",
+      "name": "卧室（夜晚）",
+      "layers": [
+        {
+          "id": "7b52dd00-5d4a-4800-89e0-22fc60370441",
+          "name": "卧室（夜晚）",
+          "assetPath": "backgrounds/卧室（夜晚）.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "8b0162d5-ae3c-4458-a69c-77bd0ffd07e6",
+      "name": "科明在沙发上睡觉",
+      "layers": [
+        {
+          "id": "7122efa5-7867-4dd0-b222-6d3be9c55608",
+          "name": "科明在沙发上睡觉",
+          "assetPath": "backgrounds/科明在沙发上睡觉.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "893af15f-f78f-442e-94fc-7bcd1198ca89",
+      "name": "卫生间",
+      "layers": [
+        {
+          "id": "f48225dd-d25f-419a-844b-84d753b56fcd",
+          "name": "卫生间",
+          "assetPath": "backgrounds/卫生间.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "2dce13b1-3ea6-456a-b33c-cace0b0b2e19",
+      "name": "商场",
+      "layers": [
+        {
+          "id": "36122b72-f93b-43ef-8740-0f5d4f1c1b05",
+          "name": "商场",
+          "assetPath": "backgrounds/商场.png",
+          "distance": 1
+        }
+      ]
     }
   ]
 }

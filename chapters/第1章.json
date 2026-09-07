@@ -3162,7 +3162,7 @@
             "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
             "characterName": "小小科明",
             "nameVariantId": "",
-            "expression": "",
+            "expression": "惊讶",
             "skin": "",
             "distance": "middle",
             "position": "center",
@@ -3208,7 +3208,7 @@
             "position": "",
             "isFirst": false,
             "isLast": true,
-            "prevExpression": "",
+            "prevExpression": "惊讶",
             "prevNameVariantId": "",
             "showCharacter": true,
             "dialoguePortraitOnly": false,
@@ -3245,7 +3245,7 @@
           "content": [
             {
               "type": "text",
-              "text": "科明大叫着转身就要跑",
+              "text": "科明大叫着转身跑向客厅",
               "styles": {}
             }
           ]
@@ -3281,6 +3281,57 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "dade233e-8238-43bb-89c1-7c3a2c09c438",
+          "type": "destroyScene",
+          "props": {
+            "disabled": false,
+            "sceneId": "all",
+            "sceneName": "",
+            "animated": "true",
+            "waitForComplete": "false"
+          }
+        },
+        {
+          "id": "936262ee-8d7f-4211-8dba-058f71c41832",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "29c5a683-d6ce-4e5d-b608-1ad394625f43",
+            "sceneName": "客厅",
+            "uri": "",
+            "autoAddToGallery": "true",
+            "galleryMethodTarget": "avg.internal.default-shell/add-to-gallery",
+            "transitionMode": "cover",
+            "transitionDuration": "500",
+            "transitionDirection": "",
+            "transitionStrips": "12",
+            "transitionRuleUri": "",
+            "transitionCenterX": "50",
+            "transitionCenterY": "50",
+            "transitionSoftness": "",
+            "transitionZoomScale": "1.14",
+            "transitionBlurStrength": "16",
+            "transitionMosaicSize": "52",
+            "transitionGlitchStrength": "100",
+            "transitionGlitchColorShift": "4.5",
+            "transitionGlitchScanlines": "17",
+            "transitionPagePerspective": "50",
+            "transitionPageShadow": "38",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "mouseParallaxEnabled": "false",
+            "mouseParallaxAmplitude": "4",
+            "mouseParallaxEdgeEase": "0",
+            "mouseParallaxReturnOnLeave": "true",
+            "mouseParallaxScaleMode": "auto",
+            "mouseParallaxScale": "1.08",
+            "displayType": "cover",
+            "position": "(center,center)",
+            "anchor": "center",
+            "size": "(80%,80%)"
+          }
         },
         {
           "id": "5b477deb-2e6d-40a3-a7bf-d9bb3c486ea7",
@@ -3442,7 +3493,7 @@
             "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
             "characterName": "小小科明",
             "nameVariantId": "",
-            "expression": "",
+            "expression": "脸红",
             "skin": "",
             "distance": "middle",
             "position": "center",
@@ -3740,7 +3791,7 @@
             "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
             "characterName": "小小科明",
             "nameVariantId": "",
-            "expression": "",
+            "expression": "脸红",
             "skin": "",
             "distance": "middle",
             "position": "center",
@@ -3826,7 +3877,7 @@
             "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
             "characterName": "小小科明",
             "nameVariantId": "",
-            "expression": "",
+            "expression": "伤心",
             "skin": "",
             "distance": "middle",
             "position": "center",

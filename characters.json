@@ -1,6 +1,120 @@
 {
   "version": 2,
-  "globalSettings": {},
+  "globalSettings": {
+    "distancePresets": [
+      {
+        "id": "far",
+        "name": "远",
+        "scale": 0.72,
+        "positions": [
+          {
+            "id": "left",
+            "name": "左",
+            "left": 25,
+            "top": 50
+          },
+          {
+            "id": "center-left",
+            "name": "中左",
+            "left": 37,
+            "top": 50
+          },
+          {
+            "id": "center",
+            "name": "中",
+            "left": 50,
+            "top": 50
+          },
+          {
+            "id": "center-right",
+            "name": "中右",
+            "left": 63,
+            "top": 50
+          },
+          {
+            "id": "right",
+            "name": "右",
+            "left": 75,
+            "top": 50
+          }
+        ]
+      },
+      {
+        "id": "middle",
+        "name": "中",
+        "scale": 0.86,
+        "positions": [
+          {
+            "id": "left",
+            "name": "左",
+            "left": 22.4,
+            "top": 56.4
+          },
+          {
+            "id": "center-left",
+            "name": "中左",
+            "left": 37,
+            "top": 50
+          },
+          {
+            "id": "center",
+            "name": "中",
+            "left": 49,
+            "top": 55.8
+          },
+          {
+            "id": "center-right",
+            "name": "中右",
+            "left": 63,
+            "top": 50
+          },
+          {
+            "id": "right",
+            "name": "右",
+            "left": 75,
+            "top": 50
+          }
+        ]
+      },
+      {
+        "id": "near",
+        "name": "近",
+        "scale": 1.59,
+        "positions": [
+          {
+            "id": "left",
+            "name": "左",
+            "left": 24.5,
+            "top": 97.4
+          },
+          {
+            "id": "center-left",
+            "name": "中左",
+            "left": 37,
+            "top": 50
+          },
+          {
+            "id": "center",
+            "name": "中",
+            "left": 50,
+            "top": 50
+          },
+          {
+            "id": "center-right",
+            "name": "中右",
+            "left": 63,
+            "top": 50
+          },
+          {
+            "id": "right",
+            "name": "右",
+            "left": 75,
+            "top": 50
+          }
+        ]
+      }
+    ]
+  },
   "attributeTemplate": [
     {
       "id": "80f25be0-ae16-4861-98f1-98b9a3914157",
@@ -46,19 +160,40 @@
       "name": "小小科明",
       "expressions": [
         {
-          "name": "1788596496707",
+          "name": "默认",
           "assetPath": "characters/1788596496707.png"
+        },
+        {
+          "name": "惊讶",
+          "assetPath": "characters/1788778245530.png"
+        },
+        {
+          "name": "脸红",
+          "assetPath": "characters/1788778256514.png"
+        },
+        {
+          "name": "伤心",
+          "assetPath": "characters/1788778250983.png"
+        },
+        {
+          "name": "开心",
+          "assetPath": "characters/1788778261114.png"
         }
       ]
     },
     {
       "id": "fa54ae2d-a2aa-4b6a-aca5-aa1652524658",
       "name": "售货员",
-      "expressions": []
+      "expressions": [
+        {
+          "name": "1788780836064",
+          "assetPath": "characters/1788780836064.png"
+        }
+      ]
     },
     {
       "id": "c3423af0-b9b1-410f-ab2f-f50429466b65",
-      "name": "假面小小科明",
+      "name": "假面科明",
       "expressions": []
     },
     {
