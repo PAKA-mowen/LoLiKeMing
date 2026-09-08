@@ -47,8 +47,8 @@
           {
             "id": "left",
             "name": "左",
-            "left": 22.4,
-            "top": 56.4
+            "left": 22.5,
+            "top": 57.8
           },
           {
             "id": "center-left",
@@ -136,6 +136,10 @@
         {
           "name": "站立",
           "assetPath": "characters/1788596476163.png"
+        },
+        {
+          "name": "男皮衣",
+          "assetPath": "characters/科明男皮衣.png"
         }
       ],
       "dialoguePortraitEnabled": false
@@ -161,25 +165,184 @@
       "expressions": [
         {
           "name": "默认",
-          "assetPath": "characters/1788596496707.png"
+          "assetPath": "characters/1788596496707.png",
+          "dialoguePortraitOptimization": {
+            "version": 2,
+            "assetPath": "characters/.generated/dialogue-portraits/a8e728d2d3958849b73bbced.webp",
+            "sourceAssetPath": "characters/1788596496707.png",
+            "sourceHash": "cedd1bc03853709331102574ce3f050474399803a7d37fb1f2ae9302e178d3cc",
+            "sourceSize": 1024613,
+            "sourceMtimeMs": 1788596573195.9514
+          }
         },
         {
           "name": "惊讶",
-          "assetPath": "characters/1788778245530.png"
+          "assetPath": "characters/1788778245530.png",
+          "dialoguePortraitOptimization": {
+            "version": 2,
+            "assetPath": "characters/.generated/dialogue-portraits/1a183d43f6469449772bc2ec.webp",
+            "sourceAssetPath": "characters/1788778245530.png",
+            "sourceHash": "549f426146f1c79d8f5fae634c3d8c4e6613a2111e7eb2df60227a3747231204",
+            "sourceSize": 1043673,
+            "sourceMtimeMs": 1788778281548.7993
+          }
         },
         {
           "name": "脸红",
-          "assetPath": "characters/1788778256514.png"
+          "assetPath": "characters/1788778256514.png",
+          "dialoguePortraitOptimization": {
+            "version": 2,
+            "assetPath": "characters/.generated/dialogue-portraits/d961da4c57ef51280b38d170.webp",
+            "sourceAssetPath": "characters/1788778256514.png",
+            "sourceHash": "e4278002a190d66f3328a7552b528becf1437000bdddd5dc2a36f754c92edcf3",
+            "sourceSize": 1030661,
+            "sourceMtimeMs": 1788778280247.3633
+          }
         },
         {
           "name": "伤心",
-          "assetPath": "characters/1788778250983.png"
+          "assetPath": "characters/1788778250983.png",
+          "dialoguePortraitOptimization": {
+            "version": 2,
+            "assetPath": "characters/.generated/dialogue-portraits/cc26f89a617162ecb3976d4a.webp",
+            "sourceAssetPath": "characters/1788778250983.png",
+            "sourceHash": "c328e8e1d216bd4749d2ce4cf6ca4dff5d03e6e6fdc87fa1435e2b6bf4456ed3",
+            "sourceSize": 1049019,
+            "sourceMtimeMs": 1788778281690.8606
+          }
         },
         {
           "name": "开心",
-          "assetPath": "characters/1788778261114.png"
+          "assetPath": "characters/1788778261114.png",
+          "dialoguePortraitOptimization": {
+            "version": 2,
+            "assetPath": "characters/.generated/dialogue-portraits/0b26dd2836d90b4a5ce810ed.webp",
+            "sourceAssetPath": "characters/1788778261114.png",
+            "sourceHash": "a5e773fb19583b802bbf9e95e08c19f87a3dc5112cfd119b37a359ff90d3f519",
+            "sourceSize": 1038645,
+            "sourceMtimeMs": 1788778278499.6138
+          }
         }
-      ]
+      ],
+      "dialoguePortraitEnabled": true,
+      "portraitLayout": {
+        "distancePresets": [
+          {
+            "id": "far",
+            "name": "远",
+            "scale": 0.72,
+            "positions": [
+              {
+                "id": "left",
+                "name": "左",
+                "left": 25,
+                "top": 50
+              },
+              {
+                "id": "center-left",
+                "name": "中左",
+                "left": 37,
+                "top": 50
+              },
+              {
+                "id": "center",
+                "name": "中",
+                "left": 50,
+                "top": 50
+              },
+              {
+                "id": "center-right",
+                "name": "中右",
+                "left": 63,
+                "top": 50
+              },
+              {
+                "id": "right",
+                "name": "右",
+                "left": 75,
+                "top": 50
+              }
+            ]
+          },
+          {
+            "id": "middle",
+            "name": "中",
+            "scale": 0.86,
+            "positions": [
+              {
+                "id": "left",
+                "name": "左",
+                "left": 23.9,
+                "top": 50
+              },
+              {
+                "id": "center-left",
+                "name": "中左",
+                "left": 37,
+                "top": 50
+              },
+              {
+                "id": "center",
+                "name": "中",
+                "left": 49,
+                "top": 55.8
+              },
+              {
+                "id": "center-right",
+                "name": "中右",
+                "left": 63,
+                "top": 50
+              },
+              {
+                "id": "right",
+                "name": "右",
+                "left": 75,
+                "top": 50
+              }
+            ]
+          },
+          {
+            "id": "near",
+            "name": "近",
+            "scale": 1.59,
+            "positions": [
+              {
+                "id": "left",
+                "name": "左",
+                "left": 24.5,
+                "top": 97.4
+              },
+              {
+                "id": "center-left",
+                "name": "中左",
+                "left": 37,
+                "top": 50
+              },
+              {
+                "id": "center",
+                "name": "中",
+                "left": 50,
+                "top": 50
+              },
+              {
+                "id": "center-right",
+                "name": "中右",
+                "left": 63,
+                "top": 50
+              },
+              {
+                "id": "right",
+                "name": "右",
+                "left": 75,
+                "top": 50
+              }
+            ]
+          }
+        ],
+        "defaultDistanceId": "middle",
+        "defaultPositionId": "center",
+        "defaultAnchor": "center"
+      }
     },
     {
       "id": "fa54ae2d-a2aa-4b6a-aca5-aa1652524658",
@@ -194,7 +357,139 @@
     {
       "id": "c3423af0-b9b1-410f-ab2f-f50429466b65",
       "name": "假面科明",
-      "expressions": []
+      "expressions": [
+        {
+          "name": "科明男皮衣",
+          "assetPath": "characters/科明男皮衣.png",
+          "dialoguePortraitOptimization": {
+            "version": 2,
+            "assetPath": "characters/.generated/dialogue-portraits/d88deb9d31f1d3f671ef942b.webp",
+            "sourceAssetPath": "characters/科明男皮衣.png",
+            "sourceHash": "013a42f05d4fcbf0012ef99c98b410ae1cffae112ead0d89526361feb536fc15",
+            "sourceSize": 849731,
+            "sourceMtimeMs": 1788863443343.9956
+          }
+        }
+      ],
+      "dialoguePortraitEnabled": true,
+      "portraitLayout": {
+        "distancePresets": [
+          {
+            "id": "far",
+            "name": "远",
+            "scale": 0.72,
+            "positions": [
+              {
+                "id": "left",
+                "name": "左",
+                "left": 25,
+                "top": 50
+              },
+              {
+                "id": "center-left",
+                "name": "中左",
+                "left": 37,
+                "top": 50
+              },
+              {
+                "id": "center",
+                "name": "中",
+                "left": 50,
+                "top": 50
+              },
+              {
+                "id": "center-right",
+                "name": "中右",
+                "left": 63,
+                "top": 50
+              },
+              {
+                "id": "right",
+                "name": "右",
+                "left": 75,
+                "top": 50
+              }
+            ]
+          },
+          {
+            "id": "middle",
+            "name": "中",
+            "scale": 0.86,
+            "positions": [
+              {
+                "id": "left",
+                "name": "左",
+                "left": 22.5,
+                "top": 57.8
+              },
+              {
+                "id": "center-left",
+                "name": "中左",
+                "left": 37,
+                "top": 50
+              },
+              {
+                "id": "center",
+                "name": "中",
+                "left": 49,
+                "top": 55.8
+              },
+              {
+                "id": "center-right",
+                "name": "中右",
+                "left": 63,
+                "top": 50
+              },
+              {
+                "id": "right",
+                "name": "右",
+                "left": 75,
+                "top": 50
+              }
+            ]
+          },
+          {
+            "id": "near",
+            "name": "近",
+            "scale": 1.59,
+            "positions": [
+              {
+                "id": "left",
+                "name": "左",
+                "left": 24.5,
+                "top": 97.4
+              },
+              {
+                "id": "center-left",
+                "name": "中左",
+                "left": 37,
+                "top": 50
+              },
+              {
+                "id": "center",
+                "name": "中",
+                "left": 50.6,
+                "top": 79.9
+              },
+              {
+                "id": "center-right",
+                "name": "中右",
+                "left": 63,
+                "top": 50
+              },
+              {
+                "id": "right",
+                "name": "右",
+                "left": 75,
+                "top": 50
+              }
+            ]
+          }
+        ],
+        "defaultDistanceId": "middle",
+        "defaultPositionId": "center",
+        "defaultAnchor": "center"
+      }
     },
     {
       "id": "5b61734e-b4c4-46af-a59f-68514a3e51a2",

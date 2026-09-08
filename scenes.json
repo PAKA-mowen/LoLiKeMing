@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "scenes": [
     {
       "id": "e44ecadc-1aff-4197-b877-8414e32393a0",
@@ -131,6 +131,301 @@
           "assetPath": "backgrounds/结束.png",
           "distance": 1
         }
+      ]
+    },
+    {
+      "id": "9a8cbaa5-89a0-4c51-8a7b-7569f5e9ebdb",
+      "name": "马路白天",
+      "layers": [
+        {
+          "id": "a2fbb9c8-3296-4fab-911c-0048d4e8e918",
+          "name": "马路白天",
+          "assetPath": "backgrounds/马路白天.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "77597247-6299-4160-8d3d-ab38c8c93687",
+      "name": "马路夜晚",
+      "layers": [
+        {
+          "id": "f90127e2-8b8d-41be-961b-c6e21730df9f",
+          "name": "马路夜晚",
+          "assetPath": "backgrounds/马路夜晚.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "2c7f762c-3003-4c16-a22b-930e282ec079",
+      "name": "游乐园入口",
+      "layers": [
+        {
+          "id": "4fef8a1a-186f-4d70-8003-f6184bba34f2",
+          "name": "游乐园入口",
+          "assetPath": "backgrounds/游乐园入口.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "226943bc-3629-4f39-8cf7-b8b88fa3e0d7",
+      "name": "鬼屋",
+      "layers": [
+        {
+          "id": "eab58329-b5e8-4870-bbd3-bc6f1e7ef6ea",
+          "name": "鬼屋",
+          "assetPath": "backgrounds/鬼屋.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "249c98f9-b350-4a11-962b-a87e65f83ab7",
+      "name": "鬼屋内",
+      "layers": [
+        {
+          "id": "e3370935-66e2-46b1-b59d-1913483fa591",
+          "name": "鬼屋内",
+          "assetPath": "backgrounds/鬼屋内.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "65c4437f-cc44-4ceb-a5d7-7eb6f7f0dbdd",
+      "name": "镜之迷宫",
+      "layers": [
+        {
+          "id": "aef4d3d4-e410-411e-8be3-e06779e27ea2",
+          "name": "镜之迷宫",
+          "assetPath": "backgrounds/镜之迷宫.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "eb2a50fc-5bdc-458c-ac60-d643a3f948d1",
+      "name": "迷宫内1",
+      "layers": [
+        {
+          "id": "27301944-076b-413e-b3bd-c4a9c0a7f5b4",
+          "name": "迷宫内1",
+          "assetPath": "backgrounds/迷宫内1.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "bc9ad611-a3a9-43b0-9fb0-d44623ef0763",
+      "name": "第二扇门",
+      "layers": [
+        {
+          "id": "281f3b44-ff4d-4f13-adf6-083c65798070",
+          "name": "第二扇门",
+          "assetPath": "backgrounds/第二扇门.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "1096003a-2ae7-4417-9a4b-725e0557c5f7",
+      "name": "第三扇门",
+      "layers": [
+        {
+          "id": "8e071f6c-1171-4c5b-b852-356c31520206",
+          "name": "第三扇门",
+          "assetPath": "backgrounds/第三扇门.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "ed5d3c33-a816-4703-8052-c3432298d90a",
+      "name": "镜子",
+      "layers": [
+        {
+          "id": "47972d6e-ca09-47a1-8ea8-9afd98eafbb5",
+          "name": "镜子",
+          "assetPath": "backgrounds/镜子.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "1871debb-1d1c-4867-9f1e-daf4f37238dd",
+      "name": "CG：回家",
+      "layers": [
+        {
+          "id": "52262e62-7aa5-4207-a0e0-83cd3c99f1d0",
+          "name": "CG：回家",
+          "assetPath": "backgrounds/CG：回家.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "2c1eb644-741f-44ba-a367-43a7260f42bb",
+      "name": "诊所",
+      "layers": [
+        {
+          "id": "94f55368-a076-418c-8d12-3b5cee4bb40a",
+          "name": "诊所",
+          "assetPath": "backgrounds/诊所.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "cc380475-b12f-4c1c-b1e5-e795c24fdfd8",
+      "name": "使用水晶",
+      "layers": [
+        {
+          "id": "3a9e3fa2-c035-45f2-a8b2-d361db3be195",
+          "name": "使用水晶",
+          "assetPath": "backgrounds/使用水晶.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "5aa30339-feb0-4911-a7c3-c32007d51043",
+      "name": "车站",
+      "layers": [
+        {
+          "id": "1c8af705-cbfa-4b84-b240-6eac8a59f145",
+          "name": "车站",
+          "assetPath": "backgrounds/车站.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "08c16790-592e-4f2c-b8c2-b75451fbed45",
+      "name": "咖啡厅",
+      "layers": [
+        {
+          "id": "6240f408-dce5-4388-b26e-46fb02a0f1bd",
+          "name": "咖啡厅",
+          "assetPath": "backgrounds/咖啡厅.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "57969f37-fd6d-431b-838a-f250aaf7344c",
+      "name": "秋",
+      "layers": [
+        {
+          "id": "7903dc91-9dae-4e80-b5c4-e6621ad673fb",
+          "name": "秋",
+          "assetPath": "backgrounds/秋.png",
+          "distance": 1
+        }
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "grp_ac96f243-5ed6-4952-88b6-b24cfa89e688",
+      "name": "第一章"
+    },
+    {
+      "id": "grp_8e64db0f-8f58-41d3-82cd-11c401cab4ff",
+      "name": "第二章",
+      "collapsed": false
+    },
+    {
+      "id": "grp_50af40de-7b80-4121-a37d-63a5b3ad4b02",
+      "name": "第三章"
+    },
+    {
+      "id": "grp_d58d474c-98aa-4400-87f8-c601f22b821d",
+      "name": "第四章"
+    },
+    {
+      "id": "grp_6a7af75f-5f5e-4aaa-b0e2-bf74437c16fe",
+      "name": "家",
+      "collapsed": true
+    },
+    {
+      "id": "grp_8c1720fa-56a3-4ebb-a8ca-5aba639376a7",
+      "name": "结局二",
+      "collapsed": false
+    }
+  ],
+  "layout": [
+    {
+      "kind": "scene",
+      "sceneId": "d3fdd3d3-accd-4a5b-ab6a-6585b027a1ac"
+    },
+    {
+      "kind": "scene",
+      "sceneId": "9a8cbaa5-89a0-4c51-8a7b-7569f5e9ebdb"
+    },
+    {
+      "kind": "scene",
+      "sceneId": "77597247-6299-4160-8d3d-ab38c8c93687"
+    },
+    {
+      "kind": "group",
+      "groupId": "grp_ac96f243-5ed6-4952-88b6-b24cfa89e688",
+      "sceneIds": [
+        "e44ecadc-1aff-4197-b877-8414e32393a0",
+        "5d6cadf1-5c21-460d-baaa-296aab639820"
+      ]
+    },
+    {
+      "kind": "group",
+      "groupId": "grp_8e64db0f-8f58-41d3-82cd-11c401cab4ff",
+      "sceneIds": [
+        "fbcdef74-231c-48eb-b966-7ec75b8ec38f",
+        "2dce13b1-3ea6-456a-b33c-cace0b0b2e19"
+      ]
+    },
+    {
+      "kind": "group",
+      "groupId": "grp_50af40de-7b80-4121-a37d-63a5b3ad4b02",
+      "sceneIds": [
+        "2c7f762c-3003-4c16-a22b-930e282ec079",
+        "226943bc-3629-4f39-8cf7-b8b88fa3e0d7",
+        "249c98f9-b350-4a11-962b-a87e65f83ab7",
+        "65c4437f-cc44-4ceb-a5d7-7eb6f7f0dbdd",
+        "eb2a50fc-5bdc-458c-ac60-d643a3f948d1",
+        "bc9ad611-a3a9-43b0-9fb0-d44623ef0763",
+        "1096003a-2ae7-4417-9a4b-725e0557c5f7",
+        "ed5d3c33-a816-4703-8052-c3432298d90a",
+        "1871debb-1d1c-4867-9f1e-daf4f37238dd"
+      ]
+    },
+    {
+      "kind": "group",
+      "groupId": "grp_d58d474c-98aa-4400-87f8-c601f22b821d",
+      "sceneIds": [
+        "2c1eb644-741f-44ba-a367-43a7260f42bb",
+        "cc380475-b12f-4c1c-b1e5-e795c24fdfd8"
+      ]
+    },
+    {
+      "kind": "group",
+      "groupId": "grp_6a7af75f-5f5e-4aaa-b0e2-bf74437c16fe",
+      "sceneIds": [
+        "86c04cfc-412e-4fcf-91fc-de6de325bf64",
+        "770cb538-73df-4a20-afe1-c27f8ab3126e",
+        "29c5a683-d6ce-4e5d-b608-1ad394625f43",
+        "0e991b72-5600-4376-938f-f4b6e41003ed",
+        "8b0162d5-ae3c-4458-a69c-77bd0ffd07e6",
+        "893af15f-f78f-442e-94fc-7bcd1198ca89"
+      ]
+    },
+    {
+      "kind": "group",
+      "groupId": "grp_8c1720fa-56a3-4ebb-a8ca-5aba639376a7",
+      "sceneIds": [
+        "5aa30339-feb0-4911-a7c3-c32007d51043",
+        "08c16790-592e-4f2c-b8c2-b75451fbed45",
+        "57969f37-fd6d-431b-838a-f250aaf7344c"
       ]
     }
   ]
