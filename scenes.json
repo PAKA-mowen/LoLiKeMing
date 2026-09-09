@@ -324,6 +324,30 @@
           "distance": 1
         }
       ]
+    },
+    {
+      "id": "3a48be24-46ad-41a3-b960-a3b9432317e0",
+      "name": "餐厅",
+      "layers": [
+        {
+          "id": "8e9203ae-b214-4477-aa70-5b81c8cd1f18",
+          "name": "餐厅_1788946173776",
+          "assetPath": "backgrounds/餐厅_1788946173776.png",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "ca1e8cf1-9cfa-4c2e-8300-460d30995fab",
+      "name": "烧烤店",
+      "layers": [
+        {
+          "id": "5a69f081-608c-47ea-abf0-ef97d33e670f",
+          "name": "烧烤店",
+          "assetPath": "backgrounds/烧烤店.png",
+          "distance": 1
+        }
+      ]
     }
   ],
   "groups": [
@@ -347,12 +371,16 @@
     {
       "id": "grp_6a7af75f-5f5e-4aaa-b0e2-bf74437c16fe",
       "name": "家",
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "grp_8c1720fa-56a3-4ebb-a8ca-5aba639376a7",
       "name": "结局二",
       "collapsed": false
+    },
+    {
+      "id": "grp_3bf39a48-9061-4b6c-8d7e-d5dbfcd72f20",
+      "name": "结局一"
     }
   ],
   "layout": [
@@ -416,7 +444,8 @@
         "29c5a683-d6ce-4e5d-b608-1ad394625f43",
         "0e991b72-5600-4376-938f-f4b6e41003ed",
         "8b0162d5-ae3c-4458-a69c-77bd0ffd07e6",
-        "893af15f-f78f-442e-94fc-7bcd1198ca89"
+        "893af15f-f78f-442e-94fc-7bcd1198ca89",
+        "3a48be24-46ad-41a3-b960-a3b9432317e0"
       ]
     },
     {
@@ -426,6 +455,13 @@
         "5aa30339-feb0-4911-a7c3-c32007d51043",
         "08c16790-592e-4f2c-b8c2-b75451fbed45",
         "57969f37-fd6d-431b-838a-f250aaf7344c"
+      ]
+    },
+    {
+      "kind": "group",
+      "groupId": "grp_3bf39a48-9061-4b6c-8d7e-d5dbfcd72f20",
+      "sceneIds": [
+        "ca1e8cf1-9cfa-4c2e-8300-460d30995fab"
       ]
     }
   ]

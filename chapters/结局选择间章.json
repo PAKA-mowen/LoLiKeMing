@@ -23,6 +23,46 @@
       "name": "结局一：HE",
       "blocks": [
         {
+          "id": "c8baa746-e396-4211-8428-ea9da0296168",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "29c5a683-d6ce-4e5d-b608-1ad394625f43",
+            "sceneName": "客厅",
+            "uri": "",
+            "autoAddToGallery": "true",
+            "galleryMethodTarget": "avg.internal.default-shell/add-to-gallery",
+            "transitionMode": "cover",
+            "transitionDuration": "500",
+            "transitionDirection": "",
+            "transitionStrips": "12",
+            "transitionRuleUri": "",
+            "transitionCenterX": "50",
+            "transitionCenterY": "50",
+            "transitionSoftness": "",
+            "transitionZoomScale": "1.14",
+            "transitionBlurStrength": "16",
+            "transitionMosaicSize": "52",
+            "transitionGlitchStrength": "100",
+            "transitionGlitchColorShift": "4.5",
+            "transitionGlitchScanlines": "17",
+            "transitionPagePerspective": "50",
+            "transitionPageShadow": "38",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "mouseParallaxEnabled": "false",
+            "mouseParallaxAmplitude": "4",
+            "mouseParallaxEdgeEase": "0",
+            "mouseParallaxReturnOnLeave": "true",
+            "mouseParallaxScaleMode": "auto",
+            "mouseParallaxScale": "1.08",
+            "displayType": "cover",
+            "position": "(center,center)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
           "id": "a9ff3943-8ccf-47d0-91f4-8854dee09560",
           "type": "sound",
           "props": {
@@ -867,7 +907,7 @@
             "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
             "characterName": "小小科明",
             "nameVariantId": "",
-            "expression": "",
+            "expression": "脸红",
             "skin": "",
             "distance": "",
             "position": "",
@@ -947,7 +987,7 @@
             "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
             "characterName": "小小科明",
             "nameVariantId": "",
-            "expression": "",
+            "expression": "脸红",
             "skin": "",
             "distance": "",
             "position": "",
@@ -1299,7 +1339,7 @@
             "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
             "characterName": "小小科明",
             "nameVariantId": "",
-            "expression": "",
+            "expression": "开心",
             "skin": "",
             "distance": "",
             "position": "",
@@ -1376,7 +1416,7 @@
           "type": "narration",
           "props": {
             "disabled": false,
-            "keepDialogue": true,
+            "keepDialogue": false,
             "voiceHash": ""
           },
           "content": [
@@ -1386,6 +1426,96 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "f89c674f-3ad3-4baf-b9dc-34075ccb9ae5",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "close",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
+        },
+        {
+          "id": "96f19aea-316b-465e-adad-54f05247c019",
+          "type": "wait",
+          "props": {
+            "disabled": false,
+            "duration": 1000,
+            "waitForInput": false
+          }
+        },
+        {
+          "id": "14724e1d-5ab9-4c91-9276-678c85aea080",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterTargetsJson": "[{\"id\":\"dfb46bb6-c824-48dd-82de-77d71c8731a2\",\"name\":\"小小科明\"}]",
+            "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
+            "characterName": "小小科明",
+            "motionPreset": "",
+            "motionDuration": 300,
+            "motionIntensity": 1,
+            "motionDirection": "auto",
+            "motionWait": true
+          }
+        },
+        {
+          "id": "1f140d5f-36ba-4f22-8b4f-240459c606a4",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "86c04cfc-412e-4fcf-91fc-de6de325bf64",
+            "sceneName": "卧室",
+            "uri": "",
+            "autoAddToGallery": "true",
+            "galleryMethodTarget": "avg.internal.default-shell/add-to-gallery",
+            "transitionMode": "cover",
+            "transitionDuration": "500",
+            "transitionDirection": "",
+            "transitionStrips": "12",
+            "transitionRuleUri": "",
+            "transitionCenterX": "50",
+            "transitionCenterY": "50",
+            "transitionSoftness": "",
+            "transitionZoomScale": "1.14",
+            "transitionBlurStrength": "16",
+            "transitionMosaicSize": "52",
+            "transitionGlitchStrength": "100",
+            "transitionGlitchColorShift": "4.5",
+            "transitionGlitchScanlines": "17",
+            "transitionPagePerspective": "50",
+            "transitionPageShadow": "38",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "mouseParallaxEnabled": "false",
+            "mouseParallaxAmplitude": "4",
+            "mouseParallaxEdgeEase": "0",
+            "mouseParallaxReturnOnLeave": "true",
+            "mouseParallaxScaleMode": "auto",
+            "mouseParallaxScale": "1.08",
+            "displayType": "cover",
+            "position": "(center,center)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "581059b1-856d-4a72-a27a-6f4cc7e25306",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "open",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
         },
         {
           "id": "ce5201e4-6d7d-4831-8f33-35e554569453",
@@ -1747,7 +1877,7 @@
             "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
             "characterName": "小小科明",
             "nameVariantId": "",
-            "expression": "",
+            "expression": "伤心",
             "skin": "",
             "distance": "",
             "position": "",
@@ -1923,7 +2053,7 @@
             "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
             "characterName": "小小科明",
             "nameVariantId": "",
-            "expression": "",
+            "expression": "脸红",
             "skin": "",
             "distance": "",
             "position": "",
@@ -2179,7 +2309,7 @@
             "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
             "characterName": "小小科明",
             "nameVariantId": "",
-            "expression": "",
+            "expression": "脸红",
             "skin": "",
             "distance": "",
             "position": "",
@@ -2189,8 +2319,8 @@
             "prevNameVariantId": "",
             "showCharacter": true,
             "dialoguePortraitOnly": false,
-            "keepCharacter": true,
-            "keepDialogue": true,
+            "keepCharacter": false,
+            "keepDialogue": false,
             "voiceHash": "",
             "entryMotionPreset": "",
             "entryMotionDuration": 300,
@@ -2210,6 +2340,19 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "eebd853f-29d2-4c01-81bc-86f6ef3b7701",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "close",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
         },
         {
           "id": "ae6298e1-73b6-4dc5-bc2e-610134a51c9f",
@@ -2282,6 +2425,19 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "a09f5dcc-2c06-4641-9d08-f660e57459cd",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "open",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
         },
         {
           "id": "433f2ee9-3573-48c6-a99a-48accb54fada",
@@ -2482,6 +2638,46 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "58b6affa-2e41-4eb9-b377-f62adf069698",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "3a48be24-46ad-41a3-b960-a3b9432317e0",
+            "sceneName": "餐厅",
+            "uri": "",
+            "autoAddToGallery": "true",
+            "galleryMethodTarget": "avg.internal.default-shell/add-to-gallery",
+            "transitionMode": "cover",
+            "transitionDuration": "500",
+            "transitionDirection": "",
+            "transitionStrips": "12",
+            "transitionRuleUri": "",
+            "transitionCenterX": "50",
+            "transitionCenterY": "50",
+            "transitionSoftness": "",
+            "transitionZoomScale": "1.14",
+            "transitionBlurStrength": "16",
+            "transitionMosaicSize": "52",
+            "transitionGlitchStrength": "100",
+            "transitionGlitchColorShift": "4.5",
+            "transitionGlitchScanlines": "17",
+            "transitionPagePerspective": "50",
+            "transitionPageShadow": "38",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "mouseParallaxEnabled": "false",
+            "mouseParallaxAmplitude": "4",
+            "mouseParallaxEdgeEase": "0",
+            "mouseParallaxReturnOnLeave": "true",
+            "mouseParallaxScaleMode": "auto",
+            "mouseParallaxScale": "1.08",
+            "displayType": "cover",
+            "position": "(center,center)",
+            "anchor": "center",
+            "size": ""
+          }
         },
         {
           "id": "6e44bc39-914d-4b8f-9b44-feb2d8f86c93",
@@ -2707,7 +2903,7 @@
             "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
             "characterName": "小小科明",
             "nameVariantId": "",
-            "expression": "",
+            "expression": "伤心",
             "skin": "",
             "distance": "",
             "position": "",
@@ -3693,8 +3889,8 @@
             "prevNameVariantId": "",
             "showCharacter": true,
             "dialoguePortraitOnly": false,
-            "keepCharacter": true,
-            "keepDialogue": true,
+            "keepCharacter": false,
+            "keepDialogue": false,
             "voiceHash": "",
             "entryMotionPreset": "",
             "entryMotionDuration": 300,
@@ -3733,8 +3929,8 @@
             "prevNameVariantId": "",
             "showCharacter": true,
             "dialoguePortraitOnly": false,
-            "keepCharacter": true,
-            "keepDialogue": true,
+            "keepCharacter": false,
+            "keepDialogue": false,
             "voiceHash": "",
             "entryMotionPreset": "",
             "entryMotionDuration": 300,
@@ -3754,6 +3950,46 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "99218e88-8846-466e-b750-c129be9786c7",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "2dce13b1-3ea6-456a-b33c-cace0b0b2e19",
+            "sceneName": "商场",
+            "uri": "",
+            "autoAddToGallery": "true",
+            "galleryMethodTarget": "avg.internal.default-shell/add-to-gallery",
+            "transitionMode": "cover",
+            "transitionDuration": "500",
+            "transitionDirection": "",
+            "transitionStrips": "12",
+            "transitionRuleUri": "",
+            "transitionCenterX": "50",
+            "transitionCenterY": "50",
+            "transitionSoftness": "",
+            "transitionZoomScale": "1.14",
+            "transitionBlurStrength": "16",
+            "transitionMosaicSize": "52",
+            "transitionGlitchStrength": "100",
+            "transitionGlitchColorShift": "4.5",
+            "transitionGlitchScanlines": "17",
+            "transitionPagePerspective": "50",
+            "transitionPageShadow": "38",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "mouseParallaxEnabled": "false",
+            "mouseParallaxAmplitude": "4",
+            "mouseParallaxEdgeEase": "0",
+            "mouseParallaxReturnOnLeave": "true",
+            "mouseParallaxScaleMode": "auto",
+            "mouseParallaxScale": "1.08",
+            "displayType": "cover",
+            "position": "(center,center)",
+            "anchor": "center",
+            "size": ""
+          }
         },
         {
           "id": "6245f329-3963-4262-99a4-0251279740e2",
@@ -4221,8 +4457,8 @@
             "prevNameVariantId": "",
             "showCharacter": true,
             "dialoguePortraitOnly": false,
-            "keepCharacter": true,
-            "keepDialogue": true,
+            "keepCharacter": false,
+            "keepDialogue": false,
             "voiceHash": "",
             "entryMotionPreset": "",
             "entryMotionDuration": 300,
@@ -4533,8 +4769,8 @@
             "prevNameVariantId": "",
             "showCharacter": true,
             "dialoguePortraitOnly": false,
-            "keepCharacter": true,
-            "keepDialogue": true,
+            "keepCharacter": false,
+            "keepDialogue": false,
             "voiceHash": "",
             "entryMotionPreset": "",
             "entryMotionDuration": 300,
@@ -4556,6 +4792,59 @@
           ]
         },
         {
+          "id": "db24cc97-7104-40db-aedd-6cffa4775030",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "close",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
+        },
+        {
+          "id": "a55cf03c-2bd0-4308-bb50-9c11fc699666",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "3a48be24-46ad-41a3-b960-a3b9432317e0",
+            "sceneName": "餐厅",
+            "uri": "",
+            "autoAddToGallery": "true",
+            "galleryMethodTarget": "avg.internal.default-shell/add-to-gallery",
+            "transitionMode": "cover",
+            "transitionDuration": "500",
+            "transitionDirection": "",
+            "transitionStrips": "12",
+            "transitionRuleUri": "",
+            "transitionCenterX": "50",
+            "transitionCenterY": "50",
+            "transitionSoftness": "",
+            "transitionZoomScale": "1.14",
+            "transitionBlurStrength": "16",
+            "transitionMosaicSize": "52",
+            "transitionGlitchStrength": "100",
+            "transitionGlitchColorShift": "4.5",
+            "transitionGlitchScanlines": "17",
+            "transitionPagePerspective": "50",
+            "transitionPageShadow": "38",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "mouseParallaxEnabled": "false",
+            "mouseParallaxAmplitude": "4",
+            "mouseParallaxEdgeEase": "0",
+            "mouseParallaxReturnOnLeave": "true",
+            "mouseParallaxScaleMode": "auto",
+            "mouseParallaxScale": "1.08",
+            "displayType": "cover",
+            "position": "(center,center)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
           "id": "0aa9080c-f5fb-48bd-b0aa-f2994712cd18",
           "type": "narration",
           "props": {
@@ -4570,6 +4859,19 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "2ab5d2d2-35a9-4e25-8b72-5c53e43fda0b",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "open",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
         },
         {
           "id": "40126aa6-6ce5-4232-adf8-010f57e191d3",
@@ -4795,7 +5097,7 @@
             "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
             "characterName": "小小科明",
             "nameVariantId": "",
-            "expression": "",
+            "expression": "脸红",
             "skin": "",
             "distance": "",
             "position": "",
@@ -5323,7 +5625,7 @@
             "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
             "characterName": "小小科明",
             "nameVariantId": "",
-            "expression": "",
+            "expression": "开心",
             "skin": "",
             "distance": "",
             "position": "",
@@ -5333,8 +5635,8 @@
             "prevNameVariantId": "",
             "showCharacter": true,
             "dialoguePortraitOnly": false,
-            "keepCharacter": true,
-            "keepDialogue": true,
+            "keepCharacter": false,
+            "keepDialogue": false,
             "voiceHash": "",
             "entryMotionPreset": "",
             "entryMotionDuration": 300,
@@ -5837,8 +6139,8 @@
             "prevNameVariantId": "",
             "showCharacter": true,
             "dialoguePortraitOnly": false,
-            "keepCharacter": true,
-            "keepDialogue": true,
+            "keepCharacter": false,
+            "keepDialogue": false,
             "voiceHash": "",
             "entryMotionPreset": "",
             "entryMotionDuration": 300,
@@ -5900,6 +6202,19 @@
           ]
         },
         {
+          "id": "f150dd0a-0c0c-43ae-911d-5eef723a140d",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "close",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
+        },
+        {
           "id": "c236549a-0d07-4672-bb92-97681636b1b9",
           "type": "narration",
           "props": {
@@ -5914,6 +6229,59 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "d4526e70-3cac-420a-9bdb-0cdebfeb3c43",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "0e991b72-5600-4376-938f-f4b6e41003ed",
+            "sceneName": "卧室（夜晚）",
+            "uri": "",
+            "autoAddToGallery": "true",
+            "galleryMethodTarget": "avg.internal.default-shell/add-to-gallery",
+            "transitionMode": "cover",
+            "transitionDuration": "500",
+            "transitionDirection": "",
+            "transitionStrips": "12",
+            "transitionRuleUri": "",
+            "transitionCenterX": "50",
+            "transitionCenterY": "50",
+            "transitionSoftness": "",
+            "transitionZoomScale": "1.14",
+            "transitionBlurStrength": "16",
+            "transitionMosaicSize": "52",
+            "transitionGlitchStrength": "100",
+            "transitionGlitchColorShift": "4.5",
+            "transitionGlitchScanlines": "17",
+            "transitionPagePerspective": "50",
+            "transitionPageShadow": "38",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "mouseParallaxEnabled": "false",
+            "mouseParallaxAmplitude": "4",
+            "mouseParallaxEdgeEase": "0",
+            "mouseParallaxReturnOnLeave": "true",
+            "mouseParallaxScaleMode": "auto",
+            "mouseParallaxScale": "1.08",
+            "displayType": "cover",
+            "position": "(center,center)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "c0e3a3df-80c3-45db-b772-3812c2e16316",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "open",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
         },
         {
           "id": "6584d1eb-fc9c-44f7-8091-383e4a033bfc",
@@ -6780,6 +7148,19 @@
           ]
         },
         {
+          "id": "1ae3b9bd-4d77-48ea-a6f9-437b4d060f73",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "close",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
+        },
+        {
           "id": "06d1c779-5cf8-4b5d-bfcc-d96644aa5fa8",
           "type": "narration",
           "props": {
@@ -6794,6 +7175,59 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "bee31bd0-7086-4a63-8374-bc9e5ab0f758",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "3a48be24-46ad-41a3-b960-a3b9432317e0",
+            "sceneName": "餐厅",
+            "uri": "",
+            "autoAddToGallery": "true",
+            "galleryMethodTarget": "avg.internal.default-shell/add-to-gallery",
+            "transitionMode": "cover",
+            "transitionDuration": "500",
+            "transitionDirection": "",
+            "transitionStrips": "12",
+            "transitionRuleUri": "",
+            "transitionCenterX": "50",
+            "transitionCenterY": "50",
+            "transitionSoftness": "",
+            "transitionZoomScale": "1.14",
+            "transitionBlurStrength": "16",
+            "transitionMosaicSize": "52",
+            "transitionGlitchStrength": "100",
+            "transitionGlitchColorShift": "4.5",
+            "transitionGlitchScanlines": "17",
+            "transitionPagePerspective": "50",
+            "transitionPageShadow": "38",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "mouseParallaxEnabled": "false",
+            "mouseParallaxAmplitude": "4",
+            "mouseParallaxEdgeEase": "0",
+            "mouseParallaxReturnOnLeave": "true",
+            "mouseParallaxScaleMode": "auto",
+            "mouseParallaxScale": "1.08",
+            "displayType": "cover",
+            "position": "(center,center)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "6117cdad-a609-4134-9f60-67a49d7cda05",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "open",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
         },
         {
           "id": "68713a02-cf1f-49e4-8a22-077d4e09427e",
@@ -7235,7 +7669,7 @@
             "characterId": "dfb46bb6-c824-48dd-82de-77d71c8731a2",
             "characterName": "小小科明",
             "nameVariantId": "",
-            "expression": "",
+            "expression": "脸红",
             "skin": "",
             "distance": "",
             "position": "",
@@ -7284,6 +7718,19 @@
           ]
         },
         {
+          "id": "5879fe2b-79ba-45cd-a0e0-92d66382d1a2",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "close",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
+        },
+        {
           "id": "3ef41996-34b9-46e1-aab4-cf9ee6e001cd",
           "type": "narration",
           "props": {
@@ -7298,6 +7745,59 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "5d37690b-181d-4c64-b375-4f8f51b5a2bd",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "86c04cfc-412e-4fcf-91fc-de6de325bf64",
+            "sceneName": "卧室",
+            "uri": "",
+            "autoAddToGallery": "true",
+            "galleryMethodTarget": "avg.internal.default-shell/add-to-gallery",
+            "transitionMode": "cover",
+            "transitionDuration": "500",
+            "transitionDirection": "",
+            "transitionStrips": "12",
+            "transitionRuleUri": "",
+            "transitionCenterX": "50",
+            "transitionCenterY": "50",
+            "transitionSoftness": "",
+            "transitionZoomScale": "1.14",
+            "transitionBlurStrength": "16",
+            "transitionMosaicSize": "52",
+            "transitionGlitchStrength": "100",
+            "transitionGlitchColorShift": "4.5",
+            "transitionGlitchScanlines": "17",
+            "transitionPagePerspective": "50",
+            "transitionPageShadow": "38",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "mouseParallaxEnabled": "false",
+            "mouseParallaxAmplitude": "4",
+            "mouseParallaxEdgeEase": "0",
+            "mouseParallaxReturnOnLeave": "true",
+            "mouseParallaxScaleMode": "auto",
+            "mouseParallaxScale": "1.08",
+            "displayType": "cover",
+            "position": "(center,center)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "86817c9d-5c8f-4a40-81d8-e132d43c955f",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "open",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
         },
         {
           "id": "4b0f2f71-594b-46ac-882e-74d7a68e3cbb",
@@ -7989,8 +8489,8 @@
             "prevNameVariantId": "",
             "showCharacter": true,
             "dialoguePortraitOnly": false,
-            "keepCharacter": true,
-            "keepDialogue": true,
+            "keepCharacter": false,
+            "keepDialogue": false,
             "voiceHash": "",
             "entryMotionPreset": "",
             "entryMotionDuration": 300,
@@ -8012,6 +8512,59 @@
           ]
         },
         {
+          "id": "a3da3b90-de6c-40c1-8697-786a0ba40fec",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "close",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
+        },
+        {
+          "id": "7523d815-0970-4816-a103-765aa007ec03",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "ca1e8cf1-9cfa-4c2e-8300-460d30995fab",
+            "sceneName": "烧烤店",
+            "uri": "",
+            "autoAddToGallery": "true",
+            "galleryMethodTarget": "avg.internal.default-shell/add-to-gallery",
+            "transitionMode": "cover",
+            "transitionDuration": "500",
+            "transitionDirection": "",
+            "transitionStrips": "12",
+            "transitionRuleUri": "",
+            "transitionCenterX": "50",
+            "transitionCenterY": "50",
+            "transitionSoftness": "",
+            "transitionZoomScale": "1.14",
+            "transitionBlurStrength": "16",
+            "transitionMosaicSize": "52",
+            "transitionGlitchStrength": "100",
+            "transitionGlitchColorShift": "4.5",
+            "transitionGlitchScanlines": "17",
+            "transitionPagePerspective": "50",
+            "transitionPageShadow": "38",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "mouseParallaxEnabled": "false",
+            "mouseParallaxAmplitude": "4",
+            "mouseParallaxEdgeEase": "0",
+            "mouseParallaxReturnOnLeave": "true",
+            "mouseParallaxScaleMode": "auto",
+            "mouseParallaxScale": "1.08",
+            "displayType": "cover",
+            "position": "(center,center)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
           "id": "f0482068-8dc9-4e0a-8dd7-046dd9dc6371",
           "type": "narration",
           "props": {
@@ -8026,6 +8579,19 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "fa5c9fde-fed8-482d-be9f-0b254bc18762",
+          "type": "curtain",
+          "props": {
+            "disabled": false,
+            "op": "open",
+            "effect": "",
+            "duration": "1000",
+            "color": "#000000",
+            "mode": "full-screen",
+            "curtainSize": "100"
+          }
         },
         {
           "id": "ae007341-1113-4009-9a8e-2930a4a7667e",
@@ -9093,8 +9659,8 @@
             "prevNameVariantId": "",
             "showCharacter": true,
             "dialoguePortraitOnly": false,
-            "keepCharacter": true,
-            "keepDialogue": true,
+            "keepCharacter": false,
+            "keepDialogue": false,
             "voiceHash": "",
             "entryMotionPreset": "",
             "entryMotionDuration": 300,
@@ -9269,8 +9835,8 @@
             "prevNameVariantId": "",
             "showCharacter": true,
             "dialoguePortraitOnly": false,
-            "keepCharacter": true,
-            "keepDialogue": true,
+            "keepCharacter": false,
+            "keepDialogue": false,
             "voiceHash": "",
             "entryMotionPreset": "",
             "entryMotionDuration": 300,
@@ -9290,6 +9856,46 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "6cd0525c-be80-4e0a-954b-464abf387e1f",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "77597247-6299-4160-8d3d-ab38c8c93687",
+            "sceneName": "马路夜晚",
+            "uri": "",
+            "autoAddToGallery": "true",
+            "galleryMethodTarget": "avg.internal.default-shell/add-to-gallery",
+            "transitionMode": "cover",
+            "transitionDuration": "500",
+            "transitionDirection": "",
+            "transitionStrips": "12",
+            "transitionRuleUri": "",
+            "transitionCenterX": "50",
+            "transitionCenterY": "50",
+            "transitionSoftness": "",
+            "transitionZoomScale": "1.14",
+            "transitionBlurStrength": "16",
+            "transitionMosaicSize": "52",
+            "transitionGlitchStrength": "100",
+            "transitionGlitchColorShift": "4.5",
+            "transitionGlitchScanlines": "17",
+            "transitionPagePerspective": "50",
+            "transitionPageShadow": "38",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "mouseParallaxEnabled": "false",
+            "mouseParallaxAmplitude": "4",
+            "mouseParallaxEdgeEase": "0",
+            "mouseParallaxReturnOnLeave": "true",
+            "mouseParallaxScaleMode": "auto",
+            "mouseParallaxScale": "1.08",
+            "displayType": "cover",
+            "position": "(center,center)",
+            "anchor": "center",
+            "size": ""
+          }
         },
         {
           "id": "c0797796-5c34-4fa8-86c0-a88a04cdaa58",
@@ -10141,7 +10747,7 @@
             "prevNameVariantId": "",
             "showCharacter": true,
             "dialoguePortraitOnly": false,
-            "keepCharacter": true,
+            "keepCharacter": false,
             "keepDialogue": false,
             "voiceHash": "",
             "entryMotionPreset": "",
@@ -10164,22 +10770,6 @@
           ]
         },
         {
-          "id": "464f7494-6bbf-4c11-9ddb-332470cb8004",
-          "type": "narration",
-          "props": {
-            "disabled": false,
-            "keepDialogue": false,
-            "voiceHash": ""
-          },
-          "content": [
-            {
-              "type": "text",
-              "text": "这傲娇萝莉，我这辈子大概都甩不掉了。",
-              "styles": {}
-            }
-          ]
-        },
-        {
           "id": "dfe6eb03-0775-4276-9a33-aeec9a3837fa",
           "type": "curtain",
           "props": {
@@ -10191,6 +10781,97 @@
             "mode": "full-screen",
             "curtainSize": "100"
           }
+        },
+        {
+          "id": "e8b454ff-3fd5-4688-9c7f-82ab1ee633cc",
+          "type": "destroyScene",
+          "props": {
+            "disabled": false,
+            "sceneId": "all",
+            "sceneName": "",
+            "animated": "true",
+            "waitForComplete": "false"
+          }
+        },
+        {
+          "id": "425e31fc-4b04-4852-bf20-3bc689bd58fa",
+          "type": "floatingText",
+          "props": {
+            "disabled": false,
+            "floatingTextId": "",
+            "blocking": "true",
+            "recordHistory": "false",
+            "position": "(40.7%,36.7%)",
+            "anchor": "top-left",
+            "size": "",
+            "fontFamily": "'851Lakeus Night Writing', 'PingFang SC', sans-serif",
+            "fontSize": "100",
+            "color": "#ffffff",
+            "fontWeight": "normal",
+            "fontStyle": "normal",
+            "textAlign": "left",
+            "lineHeight": "",
+            "letterSpacing": "",
+            "textShadow": "",
+            "duration": "2000",
+            "infinite": "false",
+            "animIn": "fade",
+            "inDuration": "300",
+            "animOut": "fade",
+            "outDuration": "300",
+            "slideFrom": "top",
+            "slideDistance": "40",
+            "scaleFrom": "0.8",
+            "scaleTo": "0.8",
+            "blurRadius": "8"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "这傲娇萝莉",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "45ff7d83-6f41-44c4-bbab-e361a4158892",
+          "type": "floatingText",
+          "props": {
+            "disabled": false,
+            "floatingTextId": "",
+            "blocking": "true",
+            "recordHistory": "false",
+            "position": "(28.4%,43.5%)",
+            "anchor": "top-left",
+            "size": "",
+            "fontFamily": "'851Lakeus Night Writing', 'PingFang SC', sans-serif",
+            "fontSize": "100",
+            "color": "#ffffff",
+            "fontWeight": "normal",
+            "fontStyle": "normal",
+            "textAlign": "left",
+            "lineHeight": "",
+            "letterSpacing": "",
+            "textShadow": "",
+            "duration": "2000",
+            "infinite": "false",
+            "animIn": "fade",
+            "inDuration": "300",
+            "animOut": "fade",
+            "outDuration": "300",
+            "slideFrom": "top",
+            "slideDistance": "40",
+            "scaleFrom": "0.8",
+            "scaleTo": "0.8",
+            "blurRadius": "8"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "我这辈子大概都甩不掉了。",
+              "styles": {}
+            }
+          ]
         },
         {
           "id": "9676b5be-178f-4a1e-aad3-9150713f500a",
